@@ -1,6 +1,6 @@
 {
-    "backend":  "2026.08.03.3",
-    "frontend":  "2026.08.03.3",
-    "notes":  "Bao cao chi so XN chua map: tach nhom + nhay sang khai mapping, bu ten dich vu; Man Dieu tri ngoai tru loc theo loai ket thuc kham thay vi ma loai hinh KCB 02/05/08",
-    "releasedAt":  "2026-08-03T11:33:26+07:00"
+    "backend":  "2026.08.03.4",
+    "frontend":  "2026.08.03.4",
+    "notes":  "Luong NOI TRU: nhap vien tach 2 buoc qua man Tiep nhan, chon giuong bang so do phong, chi ke giuong DA MAP dich vu, mo lai ho so da ra vien, phieu truyen mau, don gia giuong theo ThoiGianNhap; Man Danh sach ban sao luu; Panel chon ngay-gio tieng Viet dung chung; Rule BHYT R105/R146/R247",
+    "releasedAt":  "2026-08-04T00:05:00+07:00"
 }
