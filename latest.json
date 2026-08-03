@@ -1,6 +1,6 @@
 {
-    "backend":  "2026.08.03.1",
-    "frontend":  "2026.08.03.1",
-    "notes":  "Phieu kem theo benh an: chi hien phieu DA KHAI trong cau hinh ho so (co cau hinh mac dinh); nguoi ky lay bac si kham cua luot",
-    "releasedAt":  "2026-08-03T09:07:35+07:00"
+    "backend":  "2026.08.03.2",
+    "frontend":  "2026.08.03.2",
+    "notes":  "Kiem sao luu TRUOC khi cap nhat va bao ro ly do khi hong; Tong quan la menu co phan quyen (khong co thi vao chuc nang dau tien); Ky so tap trung mac dinh loc phieu cua minh",
+    "releasedAt":  "2026-08-03T10:27:24+07:00"
 }
