@@ -1,6 +1,6 @@
 {
-    "backend":  "2026.08.04",
+    "backend":  "2026.08.04.1",
     "frontend":  "2026.08.04",
-    "notes":  "Go lai canh bao bac si trung khoang thoi gian kham (do tren 15.122 luot golden: rule ban 96,4% nen het mang thong tin) - TAM THOI co y lech tool; CDHA bam Tiep nhan mo luon phieu ket qua",
-    "releasedAt":  "2026-08-04T09:18:57+07:00"
+    "notes":  "Cua kiem sao luu truoc cap nhat: quet MOI schema + kiem quyen USAGE (ban truoc chi soi bang trong public nen bao \u0027san sang\u0027 ngay truoc lan nang cap hong that); build image khong con phu thuoc may dev",
+    "releasedAt":  "2026-08-04T10:23:06+07:00"
 }
