@@ -1,6 +1,6 @@
 {
-    "backend":  "2026.08.05",
-    "frontend":  "2026.08.05",
-    "notes":  "Y lenh noi tru: gio dung thuoc do bac si chi dinh, cap cham soc thanh y lenh (TT31/2021), dot ve phep khong tinh tien giuong; To dieu tri co chieu cao/BMI va bam gio BAT DAU kham; Don thuoc het bao oan 409 + bay ham luong/hang san xuat; XML7 TEN_BS lui ve bac si dieu tri; Giay ra vien ky THU TRUONG DON VI",
-    "releasedAt":  "2026-08-05T08:31:28+07:00"
+    "backend":  "2026.08.05.1",
+    "frontend":  "2026.08.05.1",
+    "notes":  "Chi dinh: het 409 bao oan khi sua chi dinh (so RowVersion cua CHINH chi dinh, ca BE lan FE). Xet nghiem: man Ket qua khong con xoa trang e-kip, them o Nguoi thuc hien (e-kip), don vi TINH TIEN khong con roi vao o don vi DO cua chi so. BHYT: ho so dieu chinh 09/BH theo TT12 (ky rsa-sha256 thang TT_HOSO), T_TRANTT de TRONG thay vi 0, ha R105+R125 xuong Warning, LIEU_DUNG lay text bac si go, CHAN_DOAN_VAO lay benh canh, nguoi ky giay ra vien phu thuoc MA_LOAI_KCB. Ma hoa: bit 2 duong ro URL kho file ra thang trinh duyet. Checklist: bieu mau o kho generic khong con vinh vien Chua tao.",
+    "releasedAt":  "2026-08-05T15:29:04+07:00"
 }
