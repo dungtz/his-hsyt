@@ -1,6 +1,6 @@
 {
-    "backend":  "2026.08.08",
-    "frontend":  "2026.08.08",
-    "notes":  "Phieu cham soc dieu duong (38/BV1): ban in gon MOT trang thay vi tran sang trang 2 gan nhu trang; dau phieu in dung So vao vien / Ma nguoi benh thay vi ma dinh danh noi bo; bo nut Them lan cham soc bi trung, dau the doi thanh Sua/Them phieu, trong form la Them luot cham soc. Hoi chan: o Khoa thanh combobox danh muc va gui kem ma khoa nen het bao loi khoa.notfound moi luot luu. Noi tru: luoi danh sach hien nhan Cho ra vien thay vi ma CHO_RA_VIEN, va chip giuong khong con noi Chua xep giuong voi ca dang cho ra vien.",
-    "releasedAt":  "2026-08-08T16:16:17+07:00"
+    "backend":  "2026.08.10",
+    "frontend":  "2026.08.10",
+    "notes":  "Tiep don: dich vu HET HIEU LUC khong con dang ky duoc — chan ngay o cua tiep don (truoc day chi chan o man Ke chi dinh) va an luon khoi combobox theo NGAY VAO tren phieu, nen nhap hoi cuu ho so cu van thay muc con han tai ngay do. Dieu tri ngoai tru: mo lai dot roi ket thuc lai khong con lam phieu kham ket o trang thai Dang kham — truoc day roi vao vong chet khong chot duoc chi phi va khong ra duoc XML. Chuyen vien: vong doi giay chuyen vien dung chung cho kham benh / dieu tri ngoai tru / noi tru, huy chuyen vien thi sua ly do ket thuc cua dot thay vi mo lai dot. Vien phi: huy bang ke xoa luon ban in, cot Tong chi phi lay tien bang ke, o tim dung tu khoa. Noi tru: go duoc tick cap thuoc, chan hai dong cham soc trung phut, huy yeu cau xuat vien khong con tro nham giuong.",
+    "releasedAt":  "2026-08-10T06:35:48+07:00"
 }
