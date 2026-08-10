@@ -1,6 +1,6 @@
 {
-    "backend":  "2026.08.10",
-    "frontend":  "2026.08.10",
-    "notes":  "Tiep don: dich vu HET HIEU LUC khong con dang ky duoc — chan ngay o cua tiep don (truoc day chi chan o man Ke chi dinh) va an luon khoi combobox theo NGAY VAO tren phieu, nen nhap hoi cuu ho so cu van thay muc con han tai ngay do. Dieu tri ngoai tru: mo lai dot roi ket thuc lai khong con lam phieu kham ket o trang thai Dang kham — truoc day roi vao vong chet khong chot duoc chi phi va khong ra duoc XML. Chuyen vien: vong doi giay chuyen vien dung chung cho kham benh / dieu tri ngoai tru / noi tru, huy chuyen vien thi sua ly do ket thuc cua dot thay vi mo lai dot. Vien phi: huy bang ke xoa luon ban in, cot Tong chi phi lay tien bang ke, o tim dung tu khoa. Noi tru: go duoc tick cap thuoc, chan hai dong cham soc trung phut, huy yeu cau xuat vien khong con tro nham giuong.",
-    "releasedAt":  "2026-08-10T06:35:48+07:00"
+    "backend":  "2026.08.10.1",
+    "frontend":  "2026.08.10.1",
+    "notes":  "Tai lieu giay dinh kem: nhom van ban cua co quan co tham quyen (giay chuyen tuyen, giay ra vien BV khac, chung nhan thuong tich...) nay LUU NGAY khi dinh kem, khong con chan lai khi co so chua khai con dau. Ban chua dong dau mang nhan do \u0027Cho dong dau\u0027 trong ho so va vao hang doi o man Ky so tap trung, co nut Dong dau tung ban hoac Dong dau tat ca. Con dau to chuc: man Con dau to chuc nay khai tap trung ca hai phuong thuc, chon ky bang USB token hoac VNPT SmartCA, co nut kiem tra tool va token. Vien phi: them man Chuyen hinh thuc KCB (BHYT hoac dich vu) kem ap gia lai toan bo chi phi da ke cua luot, dung duoc o moi giai doan ke ca da chot. Dieu tri ngoai tru: khong con tu de dot dieu tri khi bac si khong yeu cau. PT/TT: bao ro khi khong tra ra phau thuat vien thay vi im lang.",
+    "releasedAt":  "2026-08-10T13:02:24+07:00"
 }
