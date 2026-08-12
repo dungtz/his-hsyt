@@ -1,6 +1,6 @@
 {
-    "backend":  "2026.08.12",
-    "frontend":  "2026.08.12",
-    "notes":  "Man XML KCB tap trung: tao XML1..15 va gui cong hang loat. Nut Tao XML o man chot chi phi da bo. Le in chuan 8mm cho 102 mau. Ky so XML qua cong NCC khuon QD4750. Kham chuyen khoa ve MS 04/BV-02. To dieu tri nhieu dong dien bien. Go han Outbox Pattern.",
-    "releasedAt":  "2026-08-12T07:52:16+07:00"
+  "backend": "2026.08.12.1",
+  "frontend": "2026.08.12.1",
+  "notes": "Menu BHYT xep lai: XML Checkin va XML KCB len dau nhom, man Du lieu XML cu tam an. Man XML KCB bam dong mo chi tiet, loc theo ngay chot chi phi. Sua ky so: moc ky trong chu ky khong con lech theo mui gio may chu. Sua kho file: ten tep tu client khong con lot doan thu muc tren Linux.",
+  "releasedAt": "2026-08-12T11:05:20+07:00"
 }
