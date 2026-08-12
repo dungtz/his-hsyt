@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.12.1",
-  "frontend": "2026.08.12.1",
-  "notes": "Menu BHYT xep lai: XML Checkin va XML KCB len dau nhom, man Du lieu XML cu tam an. Man XML KCB bam dong mo chi tiet, loc theo ngay chot chi phi. Sua ky so: moc ky trong chu ky khong con lech theo mui gio may chu. Sua kho file: ten tep tu client khong con lot doan thu muc tren Linux.",
-  "releasedAt": "2026-08-12T11:05:20+07:00"
+  "backend": "2026.08.12.3",
+  "frontend": "2026.08.12.3",
+  "notes": "Noi tru: ho so DA CHOT CHI PHI khong con sua duoc chan doan/sinh hieu; gio ra vien nhap duoc theo gio THAT (cung ngay voi moc du kien la du). Tu dong danh dau XML can dung lai khi sua phieu da kham. Them cron don log HTTP tho giu 24h. Ky so: moc ky het lech theo mui gio may chu. Kem cac sua XML2 cach dung, XML4 noi soi, XML14 khop XML1.",
+  "releasedAt": "2026-08-12T23:34:18+07:00"
 }
