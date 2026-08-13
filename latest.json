@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.12.3",
-  "frontend": "2026.08.12.3",
-  "notes": "Noi tru: ho so DA CHOT CHI PHI khong con sua duoc chan doan/sinh hieu; gio ra vien nhap duoc theo gio THAT (cung ngay voi moc du kien la du). Tu dong danh dau XML can dung lai khi sua phieu da kham. Them cron don log HTTP tho giu 24h. Ky so: moc ky het lech theo mui gio may chu. Kem cac sua XML2 cach dung, XML4 noi soi, XML14 khop XML1.",
-  "releasedAt": "2026-08-12T23:34:18+07:00"
+  "backend": "2026.08.13",
+  "frontend": "2026.08.13",
+  "notes": "XML BHYT: moi tag doc dung cot khai bao, bo phep lui sang cot goc - het viec TEN_VAT_TU/MA_DICH_VU/TEN_DICH_VU tu dien vao tag golden de trong, DON_VI_TINH dong giuong ve dung Ngay. Noi tru: mot nguon duy nhat cho cau hoi da chot chi phi (luot ket thuc bang nhap vien khong con ke duoc don thuoc moi); ra vien danh dau XML dung lai thay vi xoa, gio ra vien THAT lan toi dong giuong. Chuyen giuong nhap duoc THOI DIEM thay vi dong dau gio may, kem hien Vao giuong luc.",
+  "releasedAt": "2026-08-14T00:25:32+07:00"
 }
