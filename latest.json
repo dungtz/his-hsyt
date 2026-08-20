@@ -1,6 +1,6 @@
 {
-    "backend":  "2026.08.19.1",
-    "frontend":  "2026.08.19.1",
-    "notes":  "Bao cao: C79a/C80a het NHAN DOI dong va THOI PHONG tien (join MA_LK sai); BC Giao ban tuan co endpoint /so-lieu gom chi tieu tu du lieu that + nut \u0027Lay du lieu\u0027 tren modal, o ngay mo lich thay vi go tay. XML: nguoi ky XML7 (MA_TTDV + MA_BS) nay khai THEO KHOA tren danh muc Khoa — them 2 o chon nhan vien; rule R129 soi MA_BS_DOC_KQ bang DUNG HAI HE MA nen thoi bat oan can bo da khai du. Dieu duong: nap danh muc NHAN DINH DIEU DUONG 3 tang (30 loai, 188 dong); phieu cham soc giu duoc ten dieu duong go tay (truoc day bi vut im lang, dong cung theo tai khoan) va the theo doi khong con bi cat mat noi dung. Vien phi: so cai lay MA_LK theo moc NGHIEP VU (gio kham) thay vi gio tao ban ghi nen khong con hien nham ma ho so cua phieu khac. Khoi tao DB: CO LAP tung buoc — mot buoc hong khong con cuon theo 200 buoc sau (truoc day mot loi quyen so huu bang la ca chuoi migrate dung, menu/quyen/bao cao khong kip chay).",
-    "releasedAt":  "2026-08-19T18:03:25+07:00"
+  "backend": "2026.08.20",
+  "frontend": "2026.08.20",
+  "notes": "PT/TT: cong tu sinh ca theo LoaiDichVu (dich vu KHAM khong con bi tu sinh ca), bang B.3 benh an gom ca theo HO SO va bu ho ten ekip tu tuong trinh nen het in o trong. Phieu cham soc dieu duong: them tu dien chan doan + chi tieu Hau mon/Tieu hoa/Chieu cao, ban in ve lai MOT trang. Danh muc: mo ParentCode qua UI, chan xoa lam vo cay nhan dinh dieu duong; noi soi tra ve dung nhom chi phi 18 (Thu thuat). Hoi chan: cot nguoi ky ve TEN + them cot ky THANH VIEN. Doi ten 'Phieu theo doi dieu tri' -> 'To dieu tri'.",
+  "releasedAt": "2026-08-20T23:13:27+07:00"
 }
