@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.20",
-  "frontend": "2026.08.20",
-  "notes": "PT/TT: cong tu sinh ca theo LoaiDichVu (dich vu KHAM khong con bi tu sinh ca), bang B.3 benh an gom ca theo HO SO va bu ho ten ekip tu tuong trinh nen het in o trong. Phieu cham soc dieu duong: them tu dien chan doan + chi tieu Hau mon/Tieu hoa/Chieu cao, ban in ve lai MOT trang. Danh muc: mo ParentCode qua UI, chan xoa lam vo cay nhan dinh dieu duong; noi soi tra ve dung nhom chi phi 18 (Thu thuat). Hoi chan: cot nguoi ky ve TEN + them cot ky THANH VIEN. Doi ten 'Phieu theo doi dieu tri' -> 'To dieu tri'.",
-  "releasedAt": "2026-08-20T23:13:27+07:00"
+    "backend":  "2026.08.21",
+    "frontend":  "2026.08.21",
+    "notes":  "PT/TT \u0026 noi soi: noi soi thoi bi coi la phuong phap dieu tri — XML3 het khai vo cam va gio mo muon cua ca mo khac cung luot; hang doi PT/TT, the thong ke, man Y lenh va bang B.3 benh an nay cung mot truc voi cong tao ca. Tuong trinh PT/TT in du ten e-kip (9 o, truoc chi 3). Xoa chi dinh nay don luon ban in cua chung tu quanh ca mo — het phieu rac dong o man Ky so tap trung. Rule BHYT thoi bat oan: R055 (noi tru vao-ra cung ngay), R046 (han the theo NGAY), R240/R241 (khong ap khung gio lam viec cho ho so noi tru), R245/R108/R153/R152/R039, R246; XML3 nhom 10 (VTYT) thoi muon NGAY_KQ cua phieu khac; canh bao ro khi ma bac si dong tien giuong khong tra duoc. Bao cao: bao cao thuoc va bao cao chan doan phong loc theo NGAY NGHIEP VU thay vi gio bam luu — het canh chay ky thang truoc ra 0 dong. Tiep don: chup quyen loi the ngay tai tiep don, chan resync ghi de ho so da nop cong. Cham soc dieu duong \u0026 benh an: phieu 38/BV1 co 107 ma can thiep dieu duong, cat trang theo moc, moi to du khung thong tin; benh an RHM ngoai tru MS 16/BV-01 du o nhap; o ma ICD in nguyen ma tren 9 mau benh an. LUU Y: lo nay CO MIGRATE (DataSchemaVersion 2026.08.19.8 -\u003e 2026.08.21.1), BE se tu backup truoc khi chay.",
+    "releasedAt":  "2026-08-21T10:21:26+07:00"
 }
