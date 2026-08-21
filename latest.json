@@ -1,6 +1,6 @@
 {
-    "backend":  "2026.08.21.1",
-    "frontend":  "2026.08.21.1",
-    "notes":  "Ban va cua 2026.08.21: R039 trong danh muc rule BHYT co nhay don long chua escape lam VO buoc SeedBhytRuleCatalogAsync (42601 syntax error) =\u003e BE khong dong dau DataSchemaVersion, moi lan khoi dong lai lap lai backup va /healthz Degraded. Ai da len 2026.08.21 thi len thang ban nay. NOI DUNG NGHIEP VU giu nguyen nhu 2026.08.21: PT/TT \u0026 noi soi — noi soi thoi bi coi la phuong phap dieu tri, XML3 het khai vo cam va gio mo muon cua ca mo khac cung luot; hang doi PT/TT, the thong ke, man Y lenh va bang B.3 benh an cung mot truc voi cong tao ca; tuong trinh in du ten e-kip 9 o; xoa chi dinh nay don luon ban in cua chung tu quanh ca mo. Rule BHYT thoi bat oan: R055, R046, R240/R241 (khong ap khung gio lam viec cho noi tru), R245/R108/R153/R152/R039, R246; XML3 nhom 10 thoi muon NGAY_KQ cua phieu khac. Bao cao thuoc va bao cao chan doan phong loc theo NGAY NGHIEP VU thay vi gio bam luu. Tiep don chup quyen loi the, chan resync ghi de ho so da nop cong. Phieu 38/BV1 co 107 ma can thiep dieu duong; benh an RHM ngoai tru MS 16/BV-01 du o nhap; o ma ICD in nguyen ma tren 9 mau. LUU Y: lo nay CO MIGRATE (DataSchemaVersion 2026.08.19.8 -\u003e 2026.08.21.1), BE se tu backup truoc khi chay.",
-    "releasedAt":  "2026-08-21T10:51:55+07:00"
+  "backend": "2026.08.21.2",
+  "frontend": "2026.08.21.2",
+  "notes": "Tuong trinh PT/TT: them man phang lap tuong trinh nhanh cho moi ca PT/TT, o luoc do nay chon duoc SO DO VE khai theo tung co so (danh muc moi: Danh muc > So do ve; chon cho tung dich vu PT/TT o Danh muc dich vu). Doc lai duoc luoc do khuon cu nen 3 mau YHCT dien cham khong mat anh. Sua combobox Khoa/Phong/Giuong lan chuot bi ve lap. LUU Y: lo nay CO MIGRATE (DataSchemaVersion 2026.08.21.1 -> 2026.08.21.2), BE se tu backup truoc khi chay.",
+  "releasedAt": "2026-08-21T16:31:27+07:00"
 }
