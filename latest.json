@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.21.2",
+  "backend": "2026.08.21.3",
   "frontend": "2026.08.21.2",
-  "notes": "Tuong trinh PT/TT: them man phang lap tuong trinh nhanh cho moi ca PT/TT, o luoc do nay chon duoc SO DO VE khai theo tung co so (danh muc moi: Danh muc > So do ve; chon cho tung dich vu PT/TT o Danh muc dich vu). Doc lai duoc luoc do khuon cu nen 3 mau YHCT dien cham khong mat anh. Sua combobox Khoa/Phong/Giuong lan chuot bi ve lap. LUU Y: lo nay CO MIGRATE (DataSchemaVersion 2026.08.21.1 -> 2026.08.21.2), BE se tu backup truoc khi chay.",
-  "releasedAt": "2026-08-21T16:31:27+07:00"
+  "notes": "Sua nhieu loi: XML5 thoi sinh dien bien cho luot kham thuong (MA_LOAI_KCB=01); rule R129/R134/R135 thoi bat oan can bo da khai du ho so; bao cao C79a/C80a thoi nhan doi dong va thoi phong tien; hang doi CLS khong con don ca da tiep nhan; mo lai ho so noi tru xet theo khoang ngay. Cong tat man hinh o Menu he thong nay GIU NGUYEN sau khi cap nhat. Ban sao luu truoc nang cap nay duoc MA HOA. LUU Y: lo nay CO MIGRATE (DataSchemaVersion 2026.08.21.2 -> 2026.08.21.3), BE se tu backup truoc khi chay.",
+  "releasedAt": "2026-08-21T22:40:08+07:00"
 }
