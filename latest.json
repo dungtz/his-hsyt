@@ -1,6 +1,6 @@
 {
-    "backend":  "2026.08.22",
-    "frontend":  "2026.08.22.1",
-    "notes":  "Giay chung nhan nghi viec huong BHXH: bo bat buoc nhap Ma so BHXH — benh nhan chua co ma so BHXH van luu va in duoc giay. LUU Y: lo nay CHI DOI FRONTEND, backend giu nguyen 2026.08.22, KHONG co migrate.",
-    "releasedAt":  "2026-08-22T20:26:18+07:00"
+    "backend":  "2026.08.22.2",
+    "frontend":  "2026.08.22.2",
+    "notes":  "Phan quyen theo khoa/phong: bit 23 lo quyen, siet duong sao chep/in/xuat, ghi audit truy cap bi tu choi; pham vi khoa/phong chay o nac CANH BAO (mac dinh GIU NGUYEN hanh vi cu). Tien giuong noi tru thanh dong TUONG MINH tung ngay (ty le 100/50/33 chinh duoc). O Ty le BHYT thanh toan cho ca ngoai tru. Giay nghi viec huong BHXH bo bat buoc nhap Ma so BHXH. LUU Y: lo nay CO MIGRATE (DataSchemaVersion -\u003e 2026.08.22.3), BE tu backup truoc khi chay. Sau khi cap nhat FE phai Ctrl+Shift+R.",
+    "releasedAt":  "2026-08-22T21:05:44+07:00"
 }
