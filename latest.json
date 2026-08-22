@@ -1,6 +1,6 @@
 {
-    "backend":  "2026.08.22.2",
-    "frontend":  "2026.08.22.2",
-    "notes":  "Phan quyen theo khoa/phong: bit 23 lo quyen, siet duong sao chep/in/xuat, ghi audit truy cap bi tu choi; pham vi khoa/phong chay o nac CANH BAO (mac dinh GIU NGUYEN hanh vi cu). Tien giuong noi tru thanh dong TUONG MINH tung ngay (ty le 100/50/33 chinh duoc). O Ty le BHYT thanh toan cho ca ngoai tru. Giay nghi viec huong BHXH bo bat buoc nhap Ma so BHXH. LUU Y: lo nay CO MIGRATE (DataSchemaVersion -\u003e 2026.08.22.3), BE tu backup truoc khi chay. Sau khi cap nhat FE phai Ctrl+Shift+R.",
-    "releasedAt":  "2026-08-22T21:05:44+07:00"
+    "backend":  "2026.08.23",
+    "frontend":  "2026.08.23",
+    "notes":  "Sua TIEN: cot (6) TYLE_TT_DV theo QD 697 (3 lo), cot (9) Thanh tien BH tren bang ke phai la so SAU ty le, stent thu 2 tinh 1/2 don gia BH, ngay chuyen khoa va nam ghep tu 3 nguoi khong con bi tru hai lan, goi TBYT khong gom nham dong. Ngay giuong noi tru: them man chinh tung ngay + khai lich cron sinh tu dong 00:05. Xem ket qua CLS tu Y lenh chay duoc cho chi dinh noi tru. Chuoi khoi tao DB khong con nuot loi im lang. LUU Y: lo nay CO MIGRATE (DataSchemaVersion 2026.08.22.3 -\u003e 2026.08.22.4), BE tu backup truoc khi chay. Sau khi cap nhat FE phai Ctrl+Shift+R.",
+    "releasedAt":  "2026-08-23T00:43:23+07:00"
 }
