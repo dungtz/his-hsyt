@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.23.2",
-  "frontend": "2026.08.23.2",
-  "notes": "Co MIGRATE (BE tu sao luu truoc khi nang). Chinh: phieu ket qua CLS in dung BAC SI CHI DINH thay vi tai khoan tao phieu; man Ngay giuong doi HANG GIUONG theo tung ngay; menu da go tay khong bi cap lai moi lan cap nhat; chot chi phi khong con timeout 504.",
-  "releasedAt": "2026-08-23T15:14:55+07:00"
+  "backend": "2026.08.23.3",
+  "frontend": "2026.08.23.3",
+  "notes": "Co MIGRATE (BE tu sao luu truoc khi nang). Chinh: phieu ket qua CLS in dung BAC SI CHI DINH thay vi tai khoan tao phieu; man Ngay giuong doi HANG GIUONG theo tung ngay; menu da go tay khong bi cap lai moi lan cap nhat; chot chi phi khong con timeout 504. Ban .2 co loi seed nen bo qua, dung ban nay.",
+  "releasedAt": "2026-08-23T15:56:34+07:00"
 }
