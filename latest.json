@@ -1,6 +1,6 @@
 {
-    "backend":  "2026.08.23",
+    "backend":  "2026.08.23.1",
     "frontend":  "2026.08.23",
-    "notes":  "Sua TIEN: cot (6) TYLE_TT_DV theo QD 697 (3 lo), cot (9) Thanh tien BH tren bang ke phai la so SAU ty le, stent thu 2 tinh 1/2 don gia BH, ngay chuyen khoa va nam ghep tu 3 nguoi khong con bi tru hai lan, goi TBYT khong gom nham dong. Ngay giuong noi tru: them man chinh tung ngay + khai lich cron sinh tu dong 00:05. Xem ket qua CLS tu Y lenh chay duoc cho chi dinh noi tru. Chuoi khoi tao DB khong con nuot loi im lang. LUU Y: lo nay CO MIGRATE (DataSchemaVersion 2026.08.22.3 -\u003e 2026.08.22.4), BE tu backup truoc khi chay. Sau khi cap nhat FE phai Ctrl+Shift+R.",
-    "releasedAt":  "2026-08-23T00:43:23+07:00"
+    "notes":  "Lo le CHI DOI BACKEND (giao dien giu nguyen 2026.08.23, KHONG co migrate). Hai sua: (1) XML3 khong con day dong 0 dong len cong — doi chieu golden 0/45.704 dong, kem log noi ro nguyen nhan tung dong bi bo; (2) tai nhap vien trong vong 24h khong con bao loi 500.",
+    "releasedAt":  "2026-08-23T07:01:16+07:00"
 }
