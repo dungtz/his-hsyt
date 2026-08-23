@@ -1,6 +1,6 @@
 {
-    "backend":  "2026.08.23.1",
-    "frontend":  "2026.08.23",
-    "notes":  "Lo le CHI DOI BACKEND (giao dien giu nguyen 2026.08.23, KHONG co migrate). Hai sua: (1) XML3 khong con day dong 0 dong len cong — doi chieu golden 0/45.704 dong, kem log noi ro nguyen nhan tung dong bi bo; (2) tai nhap vien trong vong 24h khong con bao loi 500.",
-    "releasedAt":  "2026-08-23T07:01:16+07:00"
+  "backend": "2026.08.23.2",
+  "frontend": "2026.08.23.2",
+  "notes": "Co MIGRATE (BE tu sao luu truoc khi nang). Chinh: phieu ket qua CLS in dung BAC SI CHI DINH thay vi tai khoan tao phieu; man Ngay giuong doi HANG GIUONG theo tung ngay; menu da go tay khong bi cap lai moi lan cap nhat; chot chi phi khong con timeout 504.",
+  "releasedAt": "2026-08-23T15:14:55+07:00"
 }
