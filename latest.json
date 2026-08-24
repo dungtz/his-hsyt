@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.24.1",
-  "frontend": "2026.08.24.1",
-  "notes": "Co MIGRATE (BE tu sao luu truoc khi nang). Chinh: man Kham benh bat buoc chon Benh an ngoai tru cho luot Cho ve / Tai kham / Chuyen vien, het canh chon benh an cu ma luu xong van ra benh an moi; danh sach Phieu dieu tri het ve trung dong; luot da chot chi phi van mo duoc Giay/Phieu de cap nhat chung tu.",
-  "releasedAt": "2026-08-24T12:35:33+07:00"
+  "backend": "2026.08.24.2",
+  "frontend": "2026.08.24.2",
+  "notes": "Chinh: to dieu tri in dung chan doan (benh chinh + benh kem theo cua chinh luot kham, truoc day lay nham chan doan cua benh an); them nut In to dieu tri canh nut Luu, hien sau khi ket thuc kham. LUU Y tiep don: o Phuong/Xa khong con bat buoc, nhung de trong thi ho so BI CHAN luc gui cong BHXH (rule R248) — van nen nhap day du.",
+  "releasedAt": "2026-08-24T13:54:02+07:00"
 }
