@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.24.4",
-  "frontend": "2026.08.24.4",
-  "notes": "Giay chuyen vien: them cac o con thieu theo QD 4750 (ma co so chuyen di, chuc danh nguoi ho tong, dau hieu lam sang), noi chuyen den chon tu danh muc, va sua loi luu lai lam mat du lieu da nhap. Man Kham: sua duoc phieu ket thuc kham da hoan tat, va nut In to dieu tri nay mo lai ban in da co nen luot da chot chi phi van in duoc. In an: bo sung 11 mau con thieu vi khong co dong cau hinh nen in ra le 0mm.",
-  "releasedAt": "2026-08-24T20:14:54+07:00"
+  "backend": "2026.08.25.1",
+  "frontend": "2026.08.25.1",
+  "notes": "Doi chieu XML BHYT theo QD 4750: sua giay chuyen vien lap moi bi loi khong luu duoc, bo sung 4 mau XML con thieu, va sua nhieu o khai bao sai chuan (ma nghe nghiep, lieu dung thuoc, ma benh YHCT, vat tu y te).",
+  "releasedAt": "2026-08-25T23:15:37+07:00"
 }
