@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.25.1",
-  "frontend": "2026.08.25.1",
-  "notes": "Doi chieu XML BHYT theo QD 4750: sua giay chuyen vien lap moi bi loi khong luu duoc, bo sung 4 mau XML con thieu, va sua nhieu o khai bao sai chuan (ma nghe nghiep, lieu dung thuoc, ma benh YHCT, vat tu y te).",
-  "releasedAt": "2026-08-25T23:15:37+07:00"
+  "backend": "2026.08.27",
+  "frontend": "2026.08.27",
+  "notes": "Giay ra vien / nghi BHXH: chan doan ra vien nay ghi du benh chinh + benh kem theo (het loi khong luu duoc khi chan doan dai). Them man nhap danh muc Thuoc gui cong (TT12 mau 03) dang luoi, dan duoc tu Excel. O chon bac si loc theo phong cua luot nen het lan nguoi khong phai bac si va het trung ten. Nut Sao y lenh cho chon ngay gio va sao lui ngay. Phieu ket qua CLS in dung bac si chi dinh.",
+  "releasedAt": "2026-08-27T10:16:39+07:00"
 }
