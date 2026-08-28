@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.27.1",
-  "frontend": "2026.08.27.1",
-  "notes": "Danh muc dich vu hang hoa: gop hai cap o trung nghia (Thong tin thau, Pham vi ap dung) ve mot o duy nhat, het canh nhap mot noi ma noi kia van trong. Them 5 man nhap danh muc gui cong con lai (Bo phan chuyen mon, Nhan luc KBCB, Vat tu, Dich vu ky thuat, Thiet bi) dung chung dang luoi dan duoc tu Excel. Man ke don ngoai tru sua duoc tong so luong thuoc.",
-  "releasedAt": "2026-08-27T13:11:54+07:00"
+  "backend": "2026.08.28",
+  "frontend": "2026.08.28",
+  "notes": "Menu BHYT gom lai thanh 4 nhom con cho de tim. Danh muc gui cong TT12 ky dung chuan va tra 11 no du lieu. Them Bang ke Thuoc/Vat tu cua ca PT-TT, giay chung sinh theo QD 2919, va xuat Excel dung khuon mau C79a-HD/C80a-HD.",
+  "releasedAt": "2026-08-28T08:00:09+07:00"
 }
