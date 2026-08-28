@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.28",
-  "frontend": "2026.08.28",
-  "notes": "Menu BHYT gom lai thanh 4 nhom con cho de tim. Danh muc gui cong TT12 ky dung chuan va tra 11 no du lieu. Them Bang ke Thuoc/Vat tu cua ca PT-TT, giay chung sinh theo QD 2919, va xuat Excel dung khuon mau C79a-HD/C80a-HD.",
-  "releasedAt": "2026-08-28T08:00:09+07:00"
+  "backend": "2026.08.28.1",
+  "frontend": "2026.08.28.1",
+  "notes": "Bat buoc nhap can nang khi nhap vien noi tru. Them 6 rang buoc nghiep vu va 5 canh bao dinh muc theo CheckXML4750 (bac si, may CDHA/PTTT, thu thuat, giuong khac khoa, can bo la benh nhan). Kho goi y lieu dung theo thuoc khi ke don. Seed du 27 ma doi tuong den KCB theo QD 3276. Sua loi to trinh PT/TT khong luu duoc o Lam do chua hoan tat.",
+  "releasedAt": "2026-08-28T23:08:05+07:00"
 }
