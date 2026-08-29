@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.29.1",
-  "frontend": "2026.08.29.1",
-  "notes": "SDT sai chi canh bao, khong chan tiep don. Them dau so 087 052 055. Huy tiep nhan CLS xoa luon ban in phieu ket qua.",
-  "releasedAt": "2026-08-29T16:54:38+07:00"
+  "backend": "2026.08.29.2",
+  "frontend": "2026.08.29.2",
+  "notes": "Diem chi van tay o tiep don, in san dau van tay canh o ky nguoi benh tren 14 mau. Them nut xoa phieu kham rong. O Quoc tich khong con xoa Tinh/TP.",
+  "releasedAt": "2026-08-29T23:53:23+07:00"
 }
