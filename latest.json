@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.28.1",
-  "frontend": "2026.08.28.1",
-  "notes": "Bat buoc nhap can nang khi nhap vien noi tru. Them 6 rang buoc nghiep vu va 5 canh bao dinh muc theo CheckXML4750 (bac si, may CDHA/PTTT, thu thuat, giuong khac khoa, can bo la benh nhan). Kho goi y lieu dung theo thuoc khi ke don. Seed du 27 ma doi tuong den KCB theo QD 3276. Sua loi to trinh PT/TT khong luu duoc o Lam do chua hoan tat.",
-  "releasedAt": "2026-08-28T23:08:05+07:00"
+  "backend": "2026.08.29",
+  "frontend": "2026.08.29",
+  "notes": "Bu nut Huy tiep nhan o man Ket qua xet nghiem. Guard trung thoi diem khi Ket thuc kham nay chi dich danh phieu va nguoi benh thay vi bao chung chung.",
+  "releasedAt": "2026-08-29T10:27:13+07:00"
 }
