@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.29.2",
-  "frontend": "2026.08.29.2",
-  "notes": "Diem chi van tay o tiep don, in san dau van tay canh o ky nguoi benh tren 14 mau. Them nut xoa phieu kham rong. O Quoc tich khong con xoa Tinh/TP.",
-  "releasedAt": "2026-08-29T23:53:23+07:00"
+  "backend": "2026.08.31",
+  "frontend": "2026.08.31",
+  "notes": "Dat kham qua link: them Nghe nghiep, Quoc tich, Noi cong tac, Email, Ton giao, Nguoi bao lanh va CCCD tu go — quay khoi go lai. Ly do den kham nay bat buoc. Chan tiep nhan trung mot phieu cho, va canh bao khi quet the khac nguoi dang mo.",
+  "releasedAt": "2026-08-31T16:02:14+07:00"
 }
