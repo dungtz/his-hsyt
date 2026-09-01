@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.01",
-  "frontend": "2026.09.01",
-  "notes": "Them o nhap sinh hieu (mach, nhiet do, huyet ap, nhip tho, can nang) tren man Ke y lenh ngoai tru. Them o Benh YHCT truoc va sau PT-TT tren to tuong trinh.",
-  "releasedAt": "2026-09-01T13:38:43+07:00"
+  "backend": "2026.09.01.1",
+  "frontend": "2026.09.01.1",
+  "notes": "Tich hop PACS DICOM (mac dinh TAT, phai khai va bat tay). Ma QR dat kham va banner tren man hinh cho quay tiep nhan. Link dat kham doi theo gio (mac dinh tat).",
+  "releasedAt": "2026-09-01T16:10:27+07:00"
 }
