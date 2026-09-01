@@ -1,6 +1,6 @@
 {
-  "backend": "2026.08.31.3",
-  "frontend": "2026.08.31.1",
-  "notes": "PT/TT: sua o Phuong phap vo cam chan sach moi lan luu; o 'Bac si chi dinh' hien dung gia tri da luu",
-  "releasedAt": "2026-08-31T21:38:21+07:00"
+  "backend": "2026.09.01",
+  "frontend": "2026.09.01",
+  "notes": "Them o nhap sinh hieu (mach, nhiet do, huyet ap, nhip tho, can nang) tren man Ke y lenh ngoai tru. Them o Benh YHCT truoc va sau PT-TT tren to tuong trinh.",
+  "releasedAt": "2026-09-01T13:38:43+07:00"
 }
