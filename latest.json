@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.01.2",
-  "frontend": "2026.09.01.2",
-  "notes": "Bang goi so quay tiep nhan mo duoc khong can dang nhap (gac bang ma may, mac dinh TAT). Bat buoc nhap Phuong phap dieu tri khi ket thuc dot va cho ve. Bat buoc mot so o tren phieu tuong trinh PT-TT. Sua het loi bao quyen khi bam In.",
-  "releasedAt": "2026-09-01T22:45:33+07:00"
+  "backend": "2026.09.02",
+  "frontend": "2026.09.02",
+  "notes": "Noi cot cau hinh Value sang text: man Bien he thong nay tai duoc logo that (truoc day moi logo tren 3KB deu bi tu choi). Co migrate + sao luu.",
+  "releasedAt": "2026-09-02T11:12:36+07:00"
 }
