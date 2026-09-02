@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.02.1",
-  "frontend": "2026.09.02.1",
-  "notes": "Sua ket qua xet nghiem bi lam tron mat so le khi sua lai phieu. Bu sinh hieu vao to dieu tri dau. Sua loi khong xoa duoc luot kham.",
-  "releasedAt": "2026-09-02T12:52:40+07:00"
+  "backend": "2026.09.02.2",
+  "frontend": "2026.09.02.2",
+  "notes": "Sua loi xem anh goc DICOM khong mo duoc. Bo sung ghi chu ve tren anh cho bac si. Them kho file ghi ra dia may chu.",
+  "releasedAt": "2026-09-02T17:44:22+07:00"
 }
