@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.02.4",
-  "frontend": "2026.09.02.4",
-  "notes": "Phuc hoi 1.511 ten benh ICD-10 bi cut chu. Tuong trinh thu thuat nay di theo dich vu, khong con dong mo coi.",
-  "releasedAt": "2026-09-02T20:05:38+07:00"
+  "backend": "2026.09.03",
+  "frontend": "2026.09.03",
+  "notes": "Bang goi so: bo tam phu den che ca man, canh bao lap may hien ngay, va khai duoc dia chi cong khai de treo man bang LAN",
+  "releasedAt": "2026-09-03T01:53:45+07:00"
 }
