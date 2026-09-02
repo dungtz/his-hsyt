@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.02",
-  "frontend": "2026.09.02",
-  "notes": "Noi cot cau hinh Value sang text: man Bien he thong nay tai duoc logo that (truoc day moi logo tren 3KB deu bi tu choi). Co migrate + sao luu.",
-  "releasedAt": "2026-09-02T11:12:36+07:00"
+  "backend": "2026.09.02.1",
+  "frontend": "2026.09.02.1",
+  "notes": "Sua ket qua xet nghiem bi lam tron mat so le khi sua lai phieu. Bu sinh hieu vao to dieu tri dau. Sua loi khong xoa duoc luot kham.",
+  "releasedAt": "2026-09-02T12:52:40+07:00"
 }
