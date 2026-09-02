@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.02.2",
-  "frontend": "2026.09.02.2",
-  "notes": "Sua loi xem anh goc DICOM khong mo duoc. Bo sung ghi chu ve tren anh cho bac si. Them kho file ghi ra dia may chu.",
-  "releasedAt": "2026-09-02T17:44:22+07:00"
+  "backend": "2026.09.02.3",
+  "frontend": "2026.09.02.3",
+  "notes": "Phuc hoi 1.511 ten benh ICD-10 bi cut chu. Tuong trinh thu thuat nay di theo dich vu, khong con dong mo coi.",
+  "releasedAt": "2026-09-02T18:34:26+07:00"
 }
