@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.03.1",
+  "backend": "2026.09.03.2",
   "frontend": "2026.09.03.1",
-  "notes": "Bang goi so ngoai sanh giu duoc ma QR ngay ca khi co so bat link dat kham doi theo gio",
-  "releasedAt": "2026-09-03T09:25:04+07:00"
+  "notes": "Bao loi ket noi PACS nay noi ro nguyen nhan: sai van tay chung thu, sai tai khoan, hay khong toi duoc - moi loai mot cach chua.",
+  "releasedAt": "2026-09-03T12:23:27+07:00"
 }
