@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.03.2",
-  "frontend": "2026.09.03.1",
-  "notes": "Bao loi ket noi PACS nay noi ro nguyen nhan: sai van tay chung thu, sai tai khoan, hay khong toi duoc - moi loai mot cach chua.",
-  "releasedAt": "2026-09-03T12:23:27+07:00"
+  "backend": "2026.09.03.3",
+  "frontend": "2026.09.03.3",
+  "notes": "Tran dat kham online dem theo MAY thay vi theo IP - ca sanh dung chung WiFi khong con bi chan nham. Kem tieng doc phong 202 va cac ban va PACS, sinh hieu to dieu tri, CLS noi tru.",
+  "releasedAt": "2026-09-03T18:11:39+07:00"
 }
