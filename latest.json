@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.03",
-  "frontend": "2026.09.03",
-  "notes": "Bang goi so: bo tam phu den che ca man, canh bao lap may hien ngay, va khai duoc dia chi cong khai de treo man bang LAN",
-  "releasedAt": "2026-09-03T01:53:45+07:00"
+  "backend": "2026.09.03.1",
+  "frontend": "2026.09.03.1",
+  "notes": "Bang goi so ngoai sanh giu duoc ma QR ngay ca khi co so bat link dat kham doi theo gio",
+  "releasedAt": "2026-09-03T09:25:04+07:00"
 }
