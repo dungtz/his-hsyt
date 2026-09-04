@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.03.4",
-  "frontend": "2026.09.03.4",
-  "notes": "Va lo hong tran dat kham: dem CA HAI truc may + IP thay vi chon mot - doi ma may moi luot khong con thoat duoc. Tran may 10/ngay, IP 50/ngay. Kem va to dieu tri o man Dot ngoai tru va va PACS NOT IN.",
-  "releasedAt": "2026-09-03T22:08:05+07:00"
+  "backend": "2026.09.03.5",
+  "frontend": "2026.09.03.5",
+  "notes": "LIS GD1 hai chieu: HIS gui yeu cau XN sang may kem so o khay, may tra ket qua ve HIS. Them man Cau hinh ket noi LIS, badge QC, 6 khoa Lis_*.",
+  "releasedAt": "2026-09-04T08:31:55+07:00"
 }
