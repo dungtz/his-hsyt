@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.05.1",
-  "frontend": "2026.09.05.1",
-  "notes": "Va man Ket qua CDHA trang hoan toan (watch doc ref khai sau no) + khung anh DICOM canh form nhap ket qua; BE va viewer nhung cung nguon",
-  "releasedAt": "2026-09-06T00:12:12+07:00"
+  "backend": "2026.09.05.2",
+  "frontend": "2026.09.05.2",
+  "notes": "Va cua so worklist CDHA cat ve dau ngay - phieu tiep nhan hom qua khong con rung khoi may luc 00:00",
+  "releasedAt": "2026-09-06T04:10:01+07:00"
 }
