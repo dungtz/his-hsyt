@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.05",
-  "frontend": "2026.09.05",
-  "notes": "Worklist CDHA: Modality suy tu ten dich vu (bo cot chet LoaiCDHA), ngay du kien chup, worklist gui chu ASCII dung khai bao, CR/DX/XR la mot loai may. Kem va ky tu muy danh muc chi so va XML5 hoi chan.",
-  "releasedAt": "2026-09-05T13:47:06+07:00"
+  "backend": "2026.09.05.1",
+  "frontend": "2026.09.05.1",
+  "notes": "Va man Ket qua CDHA trang hoan toan (watch doc ref khai sau no) + khung anh DICOM canh form nhap ket qua; BE va viewer nhung cung nguon",
+  "releasedAt": "2026-09-06T00:12:12+07:00"
 }
