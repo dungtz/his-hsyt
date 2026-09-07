@@ -1,6 +1,6 @@
 {
   "backend": "2026.09.07",
-  "frontend": "2026.09.07",
-  "notes": "Xem anh CDHA cong khai cho nguoi benh (QR tren phieu, mac dinh TAT) + panel nhap ket qua trong OHIF + lich cho thuoc noi tru",
-  "releasedAt": "2026-09-07T07:03:37+07:00"
+  "frontend": "2026.09.07.1",
+  "notes": "Lo CHI FE - nut Chup hinh luon hien du khai Kho hay Pacs, va go the template tran lam khung chup rong ruot",
+  "releasedAt": "2026-09-07T10:46:14+07:00"
 }
