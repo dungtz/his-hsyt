@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.08",
+  "backend": "2026.09.08.1",
   "frontend": "2026.09.08",
-  "notes": "Mo lai o nhap Ket luan tren phieu CDHA; bo khung ky Bac si chi dinh khoi 9 mau phieu ket qua; man Tiep don theo mo hinh thu tien cua co so",
-  "releasedAt": "2026-09-08T07:58:22+07:00"
+  "notes": "Cua xem anh CDHA cong khai khong con hoi so dien thoai, chi hoi CCCD va nam sinh",
+  "releasedAt": "2026-09-08T09:13:28+07:00"
 }
