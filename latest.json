@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.08.2",
-  "frontend": "2026.09.08",
-  "notes": "Sua loi anh CDHA khong hien tren trang xem anh cong khai va tren ban in phieu ket qua",
-  "releasedAt": "2026-09-08T10:39:21+07:00"
+  "backend": "2026.09.08.3",
+  "frontend": "2026.09.08.3",
+  "notes": "Khai cau noi LIS theo tung may xet nghiem. Sua loi CT nhieu loat khong dung hinh duoc tren trang xem anh.",
+  "releasedAt": "2026-09-08T11:35:16+07:00"
 }
