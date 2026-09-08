@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.08.1",
+  "backend": "2026.09.08.2",
   "frontend": "2026.09.08",
-  "notes": "Cua xem anh CDHA cong khai khong con hoi so dien thoai, chi hoi CCCD va nam sinh",
-  "releasedAt": "2026-09-08T09:13:28+07:00"
+  "notes": "Sua loi anh CDHA khong hien tren trang xem anh cong khai va tren ban in phieu ket qua",
+  "releasedAt": "2026-09-08T10:39:21+07:00"
 }
