@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.09",
-  "frontend": "2026.09.09",
-  "notes": "May CT nhan duoc worklist voi dich vu viet tat CLVT. Them tuy chon an tab Nhap ket qua o modal CDHA cho co so go ket luan trong trinh xem anh.",
-  "releasedAt": "2026-09-09T13:53:58+07:00"
+  "backend": "2026.09.09.2",
+  "frontend": "2026.09.09.2",
+  "notes": "Nhan mau la gui y lenh xuong may xet nghiem, bo nut Gui LIS. Them kieu barcode so thu tu cong don cho co so go tay ma duoi may. Cua nhan ket qua khop theo barcode va ngay.",
+  "releasedAt": "2026-09-09T21:03:37+07:00"
 }
