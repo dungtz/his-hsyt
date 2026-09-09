@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.09.2",
-  "frontend": "2026.09.09.2",
-  "notes": "Nhan mau la gui y lenh xuong may xet nghiem, bo nut Gui LIS. Them kieu barcode so thu tu cong don cho co so go tay ma duoi may. Cua nhan ket qua khop theo barcode va ngay.",
-  "releasedAt": "2026-09-09T21:03:37+07:00"
+  "backend": "2026.09.10",
+  "frontend": "2026.09.10",
+  "notes": "Tiep nhan phieu xet nghiem la cho xuong phong: tu sinh ong mau co barcode, danh dau da nhan va gui y lenh xuong may. Chi ap dung o co so da bat LIS.",
+  "releasedAt": "2026-09-10T01:25:38+07:00"
 }
