@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.08.3",
-  "frontend": "2026.09.08.3",
-  "notes": "Khai cau noi LIS theo tung may xet nghiem. Sua loi CT nhieu loat khong dung hinh duoc tren trang xem anh.",
-  "releasedAt": "2026-09-08T11:35:16+07:00"
+  "backend": "2026.09.08.4",
+  "frontend": "2026.09.08.4",
+  "notes": "Sua anh CDHA khuyet lat khi xem dung hinh. Chi dinh thuoc dich vu nhieu phong (sieu am) nay hien dung o hang doi CDHA va Xet nghiem.",
+  "releasedAt": "2026-09-09T07:54:34+07:00"
 }
