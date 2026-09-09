@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.08.4",
-  "frontend": "2026.09.08.4",
-  "notes": "Sua anh CDHA khuyet lat khi xem dung hinh. Chi dinh thuoc dich vu nhieu phong (sieu am) nay hien dung o hang doi CDHA va Xet nghiem.",
-  "releasedAt": "2026-09-09T07:54:34+07:00"
+  "backend": "2026.09.08.5",
+  "frontend": "2026.09.08.5",
+  "notes": "Tiep don doc duoc luot da dang ky ben Minh Lo. Bo dem sinh ma bat kip day so cu. Sua nhan cap nhom man vien phi.",
+  "releasedAt": "2026-09-09T08:50:30+07:00"
 }
