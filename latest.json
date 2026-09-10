@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.10.2",
+  "backend": "2026.09.10.3",
   "frontend": "2026.09.10",
-  "notes": "Va tran upload: moi RequestSizeLimit khai tren 10MB trong he deu dang vo hieu vi WatchLog doc body truoc routing. Chan theo kich thuoc thay vi theo path. Cua nhan anh CDHA khong con bi tu choi.",
-  "releasedAt": "2026-09-10T08:03:45+07:00"
+  "notes": "Mot phieu xet nghiem = MOT ma, moi may dung chung. Truoc day moi ong mot ma nen KTV phai go hai so khac nhau vao hai may cho cung mot nguoi benh.",
+  "releasedAt": "2026-09-10T09:15:47+07:00"
 }
