@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.11",
-  "frontend": "2026.09.10",
-  "notes": "Va loi man Ket qua CDHA bao 500 cho nguoi co khai Phong lam viec (KTV chup phim, bac si doc phim). Khong co migrate.",
-  "releasedAt": "2026-09-11T09:48:53+07:00"
+  "backend": "2026.09.11.1",
+  "frontend": "2026.09.11.2",
+  "notes": "LIS: ket qua may khong con xoa/de khoang tham chieu tren phieu; tem in dung ma doi soat LIS. Mau in KQ CDHA giu xuong dong, header gon, QR cung trang chu ky (PDF da luu khong tu doi, phai sinh lai phieu can in lai). Phieu KQ XN/CDHA nho bac si va e-kip lan truoc, chi dien phieu chua luu nguoi; khong co migrate.",
+  "releasedAt": "2026-09-11T11:49:59+07:00"
 }
