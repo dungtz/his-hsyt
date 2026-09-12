@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.11.1",
-  "frontend": "2026.09.11.2",
-  "notes": "LIS: ket qua may khong con xoa/de khoang tham chieu tren phieu; tem in dung ma doi soat LIS. Mau in KQ CDHA giu xuong dong, header gon, QR cung trang chu ky (PDF da luu khong tu doi, phai sinh lai phieu can in lai). Phieu KQ XN/CDHA nho bac si va e-kip lan truoc, chi dien phieu chua luu nguoi; khong co migrate.",
-  "releasedAt": "2026-09-11T11:49:59+07:00"
+  "backend": "2026.09.12",
+  "frontend": "2026.09.12",
+  "notes": "Noi tru: bac si phu nhieu nguoi tren dot va tung phieu y lenh; goi y lenh dung chung theo khoa (thuoc + vat tu + CLS); phieu truyen dich tu dien the tich/toc do va tu tinh gio ket thuc theo cau hinh; don thuoc ngoai cho nguoi benh tu mua co chon pham vi, xem sua in huy. Phan he kho + tra ton khi ke (cong tac Kho_BatQuanLyTon mac dinh TAT). Phieu KQ XN in MA MAY khai BHYT. Co migrate: bump DataSchemaVersion 2026.09.12.",
+  "releasedAt": "2026-09-12T11:31:01+07:00"
 }
