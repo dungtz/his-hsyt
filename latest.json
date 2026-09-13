@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.13.2",
+  "backend": "2026.09.13.3",
   "frontend": "2026.09.13",
-  "notes": "Xet nghiem: man ket qua hien ca chi so may gui ngoai chi dinh (truoc bi an). Webhook LIS ghi ma may da gui vao tung dong ket qua; dich vu xet nghiem lam bang phuong phap thu cong tu gan may thu cong TC. Khong migrate.",
-  "releasedAt": "2026-09-13T12:11:40+07:00"
+  "notes": "Xet nghiem: huy tiep nhan go luon ong mau + LIS_DispatchState de tiep nhan lai lay barcode MOI (dkta 13/09). Kem: tu hoc may XN theo phong/chi so. Bump schema 2026.09.13.1 (add-only, chi vi guard).",
+  "releasedAt": "2026-09-13T14:42:12+07:00"
 }
