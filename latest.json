@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.12",
-  "frontend": "2026.09.12",
-  "notes": "Noi tru: bac si phu nhieu nguoi tren dot va tung phieu y lenh; goi y lenh dung chung theo khoa (thuoc + vat tu + CLS); phieu truyen dich tu dien the tich/toc do va tu tinh gio ket thuc theo cau hinh; don thuoc ngoai cho nguoi benh tu mua co chon pham vi, xem sua in huy. Phan he kho + tra ton khi ke (cong tac Kho_BatQuanLyTon mac dinh TAT). Phieu KQ XN in MA MAY khai BHYT. Co migrate: bump DataSchemaVersion 2026.09.12.",
-  "releasedAt": "2026-09-12T11:31:01+07:00"
+  "backend": "2026.09.13",
+  "frontend": "2026.09.13",
+  "notes": "Man kham ngoai tru: them o Bac si phu canh Bac si kham (ap dung ca phieu kham chuyen khoa), luu danh sach ma nhan vien tren phieu kham, khong ra XML BHYT. Ho so benh an: them co loai dieu tri NOI_TRU/NGOAI_TRU suy tu ho so cha va tieu de modal noi ro Benh an noi tru / Benh an ngoai tru cho do nham. LIS: nut Luot DK ML tra nguon theo SourceSystem thay vi TenantKey. Co migrate: bump DataSchemaVersion 2026.09.13 (them 2 cot + backfill co loai dieu tri).",
+  "releasedAt": "2026-09-13T08:56:44+07:00"
 }
