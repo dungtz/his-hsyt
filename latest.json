@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.14",
-  "frontend": "2026.09.14",
-  "notes": "Tien XML BHYT luu 2 so le tai nguon; 01/BH, bao cao, Excel 2 so le theo XML. Chi so may LIS (.6). Co migrate (cot LaChiSoMay).",
-  "releasedAt": "2026-09-14T14:02:48+07:00"
+  "backend": "2026.09.15",
+  "frontend": "2026.09.15",
+  "notes": "Rule BHYT cham theo BUOC nghiep vu — bang nguon rong la CHUA KIEM. Ky so dem phieu cho ky. LIS kho tho dung lai dong cu. Pham vi khoa dot 1 (FE). Co migrate: 3 cot BHYT_RuleDefinition + backfill.",
+  "releasedAt": "2026-09-15T07:05:17+07:00"
 }
