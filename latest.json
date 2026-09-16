@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.15",
-  "frontend": "2026.09.15",
-  "notes": "Rule BHYT cham theo BUOC nghiep vu — bang nguon rong la CHUA KIEM. Ky so dem phieu cho ky. LIS kho tho dung lai dong cu. Pham vi khoa dot 1 (FE). Co migrate: 3 cot BHYT_RuleDefinition + backfill.",
-  "releasedAt": "2026-09-15T07:05:17+07:00"
+  "backend": "2026.09.16",
+  "frontend": "2026.09.16",
+  "notes": "Tiep don: tuy chon bac si chon dich vu kham. Thu ngan: sua no ao o quay va nut tra lai tien sau chot. Kho cap phat noi/ngoai tru, chuyen khoa, ngay giuong, mien cung chi tra luy ke, mau BA YHCT/PHCN. Co migrate.",
+  "releasedAt": "2026-09-16T21:01:47+07:00"
 }
