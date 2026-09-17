@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.17.1",
-  "frontend": "2026.09.17.1",
-  "notes": "Mau ket qua CDHA theo gioi tinh: khong tu do va khong hien mau khac gioi (sieu am o bung nguoi benh nu khong con nhan mau nam). Co migrate (them cot GioiTinh).",
-  "releasedAt": "2026-09-17T11:26:22+07:00"
+  "backend": "2026.09.17.2",
+  "frontend": "2026.09.17.2",
+  "notes": "Chi dinh hoi chan noi bien ban hoi chan: noi tru lap ngay tren Y lenh (form nhung), kham benh lap o Hoi chan ngoai tru; chot chi phi chan khi chua lap bien ban; XML3 lay gio hoi chan va chu toa. Sua Tinh lai bang ke 500 (SourceType HOICHAN/CHAMSOC/KTC). Co migrate (cot CT_BienBanHoiChan.ChiDinhChiTiet_ID).",
+  "releasedAt": "2026-09-17T20:36:22+07:00"
 }
