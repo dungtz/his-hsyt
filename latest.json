@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.18",
-  "frontend": "2026.09.18",
-  "notes": "To trinh PT/TT: o Phong thuc hien gioi han may (bo trong = moi may); Luu thieu o bat buoc het bao thanh cong gia; Nhan ca PT/TT cho ca that; luu danh muc phong xoa cache ds phong CDHA/XN; MA_MAY dang ky gop nhieu serial + khong cat so luu hanh; rate-limit rieng xem anh PACS; route nhom menu khong tinh quyen. Co migrate (noi cot DM_MayCanLamSang).",
-  "releasedAt": "2026-09-18T12:16:33+07:00"
+  "backend": "2026.09.20",
+  "frontend": "2026.09.20",
+  "notes": "Tu dien + o chon + Chon/Luu mau cho moi phieu EMR; phieu gay me hoi suc MS 05/BV-02; QC mau in va o ky theo mau BYT; check-in BHYT theo chi dinh dau tien; loc ma tien giuong theo khoa; o chon may Model-Ten; tem XN 25x15; ban tho may LIS. Co migrate (schema 2026.09.19).",
+  "releasedAt": "2026-09-20T08:44:55+07:00"
 }
