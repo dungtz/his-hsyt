@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.20",
-  "frontend": "2026.09.20",
-  "notes": "Tu dien + o chon + Chon/Luu mau cho moi phieu EMR; phieu gay me hoi suc MS 05/BV-02; QC mau in va o ky theo mau BYT; check-in BHYT theo chi dinh dau tien; loc ma tien giuong theo khoa; o chon may Model-Ten; tem XN 25x15; ban tho may LIS. Co migrate (schema 2026.09.19).",
-  "releasedAt": "2026-09-20T08:44:55+07:00"
+  "backend": "2026.09.21",
+  "frontend": "2026.09.21",
+  "notes": "Man XEP LICH DIEU TRI moi (Dieu tri ngoai tru): so do thoi gian 1 ngay, gom theo KTV/may/nguoi benh, cham trung gio; panel sua gio-so phut-KTV-may. Menu TU CAP cho vai dang co menu Dieu tri. Sua lich GHI THANG vao phieu tuong trinh khi ca da tuong trinh (doi ca so lieu ra XML va bang ke). O CHE DO DINH DUONG tren Ke y lenh, in vao To dieu tri 36/BV-02 va Phieu dieu tri YHCT. PHIEU DIEU TRI YHCT la phieu rieng. Check-in BHYT giu dau luc den, cac cua tu dong chi BO SUNG. Va mot phan loi thu hoi phien dang nhap: DB nay luu dung hash refresh-token vua phat, nhung CHUA dut - nguyen nhan con lai la ma dinh danh thiet bi sinh tu van tay may nen nhieu cua so tren CUNG mot may bi coi la mot. Xay ra khi mot tai khoan dang nhap tu nhieu cua so/tab tren cung mot may, ke ca khi mot nguoi mo them tab; phan dang nhap chua bam Luu se mat, khong canh bao. Da ghi nhan tren production 16/09. Giam thieu: moi nhan vien mot tai khoan rieng; mot may chi mo MOT cua so HIS; nhap lieu dai thi Luu tung phan. Dau nhan cho van hanh: UserSession.RevokedReason = rt_reuse_detected. Co migrate (schema 2026.09.20.1).",
+  "releasedAt": "2026-09-21T07:58:42+07:00"
 }
