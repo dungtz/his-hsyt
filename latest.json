@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.22.1",
-  "frontend": "2026.09.22.1",
-  "notes": "PHIEU THU phan nguoi benh phai nop lap ngay tren Tong ket chi phi: chi lap khi bang ke DA CHOT, tu can tam ung, huy phieu o Thu ngan thi tam ung duoc nha; can quyen Tao phieu thu. Het bi dang xuat khi mo nhieu cua so/tab tren cung may (khoa phien rieng tung trinh duyet). Chan sua/xoa y lenh va don thuoc khi khoa Duoc da nhan/cap phat (nut Sua khoa kem ly do); ke y lenh ngoai tru luu tron goi. Bang ke DA CHOT khoa Tinh lai/Gan VTYT - muon sua thi Huy chot roi Chot lai. KHO: bao cao Nhap-Xuat-Ton va The kho theo ky (in, Excel). PT/TT: to trinh tu tinh gio ket thuc theo thoi luong dich vu, Muc do theo Phan loai PT/TT (khai o Danh muc), goi y ten. Huy tiep nhan XN theo tung dich vu; may XN khong con hoc sai kenh. DS noi tru loc theo phong. Sua khoa dau phieu benh an (Bac si duoc cap quyen emr.edit). Nhap vien lay the BHYT cua luot kham. Phieu PHCN ky theo dong + van tay NB. Dich truyen nhan theo co IsDichTruyen trong danh muc thuoc - kiem lai danh muc. CDHA in them anh: bat khoa Cdha_InThemAnh neu can (mac dinh tat). Sau cap nhat bam Ctrl+Shift+R. Co migrate (schema 2026.09.21.6).",
-  "releasedAt": "2026-09-22T04:42:14+07:00"
+  "backend": "2026.09.22.2",
+  "frontend": "2026.09.22.2",
+  "notes": "Ban va cho 2026.09.22.1: BIEN BAN HOI CHAN nay hien va lap duoc trong Giay/Phieu cua dot DIEU TRI NGOAI TRU (truoc chi nhan o noi tru) - cau hinh ho so ngoai tru da tick Bien ban hoi chan (MS 27/BV-02) la thay the ngay; form lap tu ghim luot kham, khong hoi Chon luot. Va: doi o Ho so benh an roi bam Luu thi danh sach phieu kem theo NAP LAI NGAY theo cau hinh moi, khong phai tai lai trang. Ngoai hai muc nay khong doi gi khac so voi 2026.09.22.1. Sau cap nhat bam Ctrl+Shift+R.",
+  "releasedAt": "2026-09-22T09:36:52+07:00"
 }
