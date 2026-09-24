@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.24",
-  "frontend": "2026.09.24",
-  "notes": "Ket thuc kham bo o Loai hinh — khoa nhan moi phan loai. Them luong Cho vao khoa va Tiep nhan vao khoa. Mot ca PT/TT gom duoc nhieu dich vu, moi dich vu mot tuong trinh. Dinh kem duoc file PDF ket qua tu may CLS. Nhom menu Dieu tri.",
-  "releasedAt": "2026-09-24T07:30:40+07:00"
+  "backend": "2026.09.24.1",
+  "frontend": "2026.09.24.1",
+  "notes": "To tuong trinh ngoai tru neo thang dong chi dinh, khong can tao ca PT/TT. Cac phieu cam ket, kham tien me, checklist gay me ve MOI CA MOT BAN. Sua trang thai phieu bao sai Chua lap. Man gan anh PACS loc ngay theo gio Viet Nam.",
+  "releasedAt": "2026-09-24T14:07:31+07:00"
 }
