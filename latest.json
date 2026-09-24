@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.23.1",
-  "frontend": "2026.09.23.1",
-  "notes": "Modal Ho so benh an chi con xem PDF va ky so, moi form nhap chuyen sang Giay/Phieu. Them 5 phieu quanh ca mo. In duoc phieu hoan tien thua va sua loi doc so tien tron. Them nut gan anh PACS mo coi vao phieu ket qua.",
-  "releasedAt": "2026-09-23T14:10:51+07:00"
+  "backend": "2026.09.24",
+  "frontend": "2026.09.24",
+  "notes": "Ket thuc kham bo o Loai hinh — khoa nhan moi phan loai. Them luong Cho vao khoa va Tiep nhan vao khoa. Mot ca PT/TT gom duoc nhieu dich vu, moi dich vu mot tuong trinh. Dinh kem duoc file PDF ket qua tu may CLS. Nhom menu Dieu tri.",
+  "releasedAt": "2026-09-24T07:30:40+07:00"
 }
