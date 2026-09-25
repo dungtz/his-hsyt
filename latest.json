@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.25",
-  "frontend": "2026.09.25",
-  "notes": "Sua loi khong luu duoc to tuong trinh khi ten phong dai. To tuong trinh PT/TT hien dung ten dich vu no neo; bo dem tren man noi tru dem dung. Sau khi cap nhat, de nghi tai lai trang truoc ca lam viec.",
-  "releasedAt": "2026-09-25T07:08:06+07:00"
+  "backend": "2026.09.25.1",
+  "frontend": "2026.09.25.1",
+  "notes": "Sua anh X-quang gan nham vao dong xet nghiem; man Chi dinh y te khong con do hang tram anh phu kin. Them So thu thuat trong muc Bao cao. Sau khi cap nhat, de nghi tai lai trang.",
+  "releasedAt": "2026-09-25T11:21:31+07:00"
 }
