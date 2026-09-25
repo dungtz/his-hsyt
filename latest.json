@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.25.1",
-  "frontend": "2026.09.25.1",
-  "notes": "Sua anh X-quang gan nham vao dong xet nghiem; man Chi dinh y te khong con do hang tram anh phu kin. Them So thu thuat trong muc Bao cao. Sau khi cap nhat, de nghi tai lai trang.",
-  "releasedAt": "2026-09-25T11:21:31+07:00"
+  "backend": "2026.09.25.2",
+  "frontend": "2026.09.25.2",
+  "notes": "Sua loi man Kham benh tu sinh ban in khi phieu CHUA tra ket qua — phong XN khong con bi khoa nham o Da tra ket qua. Sau khi cap nhat, de nghi tai lai trang.",
+  "releasedAt": "2026-09-25T12:43:47+07:00"
 }
