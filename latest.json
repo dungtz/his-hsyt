@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.25.3",
-  "frontend": "2026.09.25.3",
-  "notes": "Tiep nhan CDHA: moi phieu duoc cap ma ca chup rieng nen may khong con gop nhieu y lenh lam mot; tu gan may theo phong khi xac dinh duoc duy nhat. Luu y: chi ap dung cho phieu tiep nhan TU BAY GIO. Sau khi cap nhat, de nghi tai lai trang.",
-  "releasedAt": "2026-09-25T13:40:40+07:00"
+  "backend": "2026.09.25.4",
+  "frontend": "2026.09.25.4",
+  "notes": "Thu hoi thay doi sang nay ve ma ca chup CDHA. Phieu vua tiep nhan khong con bao 'khong xem duoc anh' khi chua chup xong; nut Gan anh / Go anh PACS tro lai binh thuong. Kem theo: thong bao loi hien ro rang hon. Sau khi cap nhat, de nghi tai lai trang.",
+  "releasedAt": "2026-09-25T15:57:28+07:00"
 }
