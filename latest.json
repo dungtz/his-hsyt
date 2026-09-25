@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.24.1",
-  "frontend": "2026.09.24.1",
-  "notes": "To tuong trinh ngoai tru neo thang dong chi dinh, khong can tao ca PT/TT. Cac phieu cam ket, kham tien me, checklist gay me ve MOI CA MOT BAN. Sua trang thai phieu bao sai Chua lap. Man gan anh PACS loc ngay theo gio Viet Nam.",
-  "releasedAt": "2026-09-24T14:07:31+07:00"
+  "backend": "2026.09.25",
+  "frontend": "2026.09.25",
+  "notes": "Sua loi khong luu duoc to tuong trinh khi ten phong dai. To tuong trinh PT/TT hien dung ten dich vu no neo; bo dem tren man noi tru dem dung. Sau khi cap nhat, de nghi tai lai trang truoc ca lam viec.",
+  "releasedAt": "2026-09-25T07:08:06+07:00"
 }
