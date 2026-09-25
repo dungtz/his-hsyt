@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.25.4",
-  "frontend": "2026.09.25.4",
-  "notes": "Thu hoi thay doi sang nay ve ma ca chup CDHA. Phieu vua tiep nhan khong con bao 'khong xem duoc anh' khi chua chup xong; nut Gan anh / Go anh PACS tro lai binh thuong. Kem theo: thong bao loi hien ro rang hon. Sau khi cap nhat, de nghi tai lai trang.",
-  "releasedAt": "2026-09-25T15:57:28+07:00"
+  "backend": "2026.09.26",
+  "frontend": "2026.09.26",
+  "notes": "Ke don: Enter giu nguyen chu da go o o Lieu dung/Cach dung; them bo loc thuoc theo nhom (khang sinh, gay te/me). Man Kham benh hien chi so BMI; to dieu tri in ca Lieu dung va Cach dung; sua loi khong mo duoc man Danh muc vat tu. Sau khi cap nhat, de nghi tai lai trang.",
+  "releasedAt": "2026-09-26T00:59:33+07:00"
 }
