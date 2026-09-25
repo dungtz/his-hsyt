@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.25.2",
-  "frontend": "2026.09.25.2",
-  "notes": "Sua loi man Kham benh tu sinh ban in khi phieu CHUA tra ket qua — phong XN khong con bi khoa nham o Da tra ket qua. Sau khi cap nhat, de nghi tai lai trang.",
-  "releasedAt": "2026-09-25T12:43:47+07:00"
+  "backend": "2026.09.25.3",
+  "frontend": "2026.09.25.3",
+  "notes": "Tiep nhan CDHA: moi phieu duoc cap ma ca chup rieng nen may khong con gop nhieu y lenh lam mot; tu gan may theo phong khi xac dinh duoc duy nhat. Luu y: chi ap dung cho phieu tiep nhan TU BAY GIO. Sau khi cap nhat, de nghi tai lai trang.",
+  "releasedAt": "2026-09-25T13:40:40+07:00"
 }
