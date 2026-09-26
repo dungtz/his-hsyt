@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.26.2",
-  "frontend": "2026.09.26.2",
-  "notes": "Phieu sieu am tim: nhap so do va cac chi so ho van theo bang, in ra dung mau cua khoa. Phieu do luu huyet nao (dkta). Khi tra ket qua CDHA co the chup man hinh phan mem may hoac khoanh chon mot vung anh de dua vao phieu. Sau khi cap nhat, de nghi tai lai trang.",
-  "releasedAt": "2026-09-26T22:29:08+07:00"
+  "backend": "2026.09.27",
+  "frontend": "2026.09.27",
+  "notes": "Tem ma vach xet nghiem kho 35x22. Them phieu ket qua ho hap ky, sieu am tim, luu huyet nao (nhap chi so theo bang, co do thi) va So ket qua CDHA-TDCN. Phieu theo doi dich truyen hien them Thuoc pha kem; man Dieu tri ngoai tru cho bac si thay dung benh nhan khoa minh. Sau khi cap nhat, de nghi tai lai trang.",
+  "releasedAt": "2026-09-27T03:17:12+07:00"
 }
