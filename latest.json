@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.27",
-  "frontend": "2026.09.27",
-  "notes": "Tem ma vach xet nghiem kho 35x22. Them phieu ket qua ho hap ky, sieu am tim, luu huyet nao (nhap chi so theo bang, co do thi) va So ket qua CDHA-TDCN. Phieu theo doi dich truyen hien them Thuoc pha kem; man Dieu tri ngoai tru cho bac si thay dung benh nhan khoa minh. Sau khi cap nhat, de nghi tai lai trang.",
-  "releasedAt": "2026-09-27T03:17:12+07:00"
+  "backend": "2026.09.27.1",
+  "frontend": "2026.09.27.1",
+  "notes": "Them So phau thuat, thu thuat (loc Tat ca/PT/TT) va 18 muc bao cao trong nhom Bao cao — ban dau chi ADMIN thay, vai khac can duoc cap quyen. Bao cao benh tat ICD-10 khong con dem nham luot noi tru va xem duoc 2 ky; them C7 benh tat BHYT. Man tra ket qua CDHA dua nut Luu mau/Chon mau len dau phieu; modal Dieu tri ngoai tru va Ca mo them tab Kho. Sau khi cap nhat, de nghi tai lai trang.",
+  "releasedAt": "2026-09-27T08:51:00+07:00"
 }
