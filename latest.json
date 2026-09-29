@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.29.3",
-  "frontend": "2026.09.29.2",
-  "notes": "Hotfix BE 2026.09.29.3: them ma phieu 'phieu_theo_doi_chay_than' vao kho bieu mau (DM_BieuMau) de the Phieu theo doi chay than hien duoc; bump schema 2026.09.29.2 (predump). FE giu 2026.09.29.2.",
-  "releasedAt": "2026-09-29T13:20:09+07:00"
+  "backend": "2026.09.30",
+  "frontend": "2026.09.30",
+  "notes": "Ban 2026.09.30: the BHYT sua o 4 cua (quyen bhyt-card.edit), giay giai thich tinh trang NB, GD2 phieu chay than, gia tang chi phi BHYT + thuyet minh, ke y lenh nhanh + chon phong tung dong, PT/TT theo dong chi dinh, phieu chi dinh/don thuoc tu Ke y lenh len Ky so, XML Bang 10/R085/dung tuyen, LIS lui may theo co so, canh bao tiep nhan khac phong. Schema 2026.09.29.9 (co predump).",
+  "releasedAt": "2026-09-30T02:35:24+07:00"
 }
