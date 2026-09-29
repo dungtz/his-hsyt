@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.29.2",
+  "backend": "2026.09.29.3",
   "frontend": "2026.09.29.2",
-  "notes": "Ban 2026.09.29.2: chan trung DV kham (cau bao dong rieng), gia BH 2 cot, dvhh 1 request, so do giuong, phieu gay me (khoang phut + ban in cot=moc), timeline xep lich dung chung, gac quyen billing/requests, healthz smartca, may LIS theo dau kenh (BC-700 lan dau nhan y lenh), menu theo khuon vai bat lai, SmartCA chum khoa, phieu theo doi chay than (ban in; can gan vao ho so o ban .3). Bump schema 2026.09.29.1 (predump).",
-  "releasedAt": "2026-09-29T12:39:30+07:00"
+  "notes": "Hotfix BE 2026.09.29.3: them ma phieu 'phieu_theo_doi_chay_than' vao kho bieu mau (DM_BieuMau) de the Phieu theo doi chay than hien duoc; bump schema 2026.09.29.2 (predump). FE giu 2026.09.29.2.",
+  "releasedAt": "2026-09-29T13:20:09+07:00"
 }
