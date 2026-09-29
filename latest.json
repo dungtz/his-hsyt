@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.27.1",
-  "frontend": "2026.09.27.1",
-  "notes": "Them So phau thuat, thu thuat (loc Tat ca/PT/TT) va 18 muc bao cao trong nhom Bao cao — ban dau chi ADMIN thay, vai khac can duoc cap quyen. Bao cao benh tat ICD-10 khong con dem nham luot noi tru va xem duoc 2 ky; them C7 benh tat BHYT. Man tra ket qua CDHA dua nut Luu mau/Chon mau len dau phieu; modal Dieu tri ngoai tru va Ca mo them tab Kho. Sau khi cap nhat, de nghi tai lai trang.",
-  "releasedAt": "2026-09-27T08:51:00+07:00"
+  "backend": "2026.09.29",
+  "frontend": "2026.09.29",
+  "notes": "Them Giay xac nhan dieu tri noi tru (Giay/Phieu noi tru). Mau ket qua CDHA theo dich vu: sieu am tim ra to tim. Chan chi dinh trung trong cung ngay va chan dang ky trung dich vu kham trong ngay. DS Kham benh co STT luot vao phong, xep theo nguoi den truoc. Ke don co chip loc theo duong dung. Tiep don co nut Tao phieu thu (thu tam ung). Doi the BHYT giua dot dieu tri ngoai tru (can quyen). Form y lenh noi tru mo nhanh hon. So do giuong theo khoa. Sau khi cap nhat bam Ctrl+Shift+R de tai lai trang.",
+  "releasedAt": "2026-09-29T08:14:58+07:00"
 }
