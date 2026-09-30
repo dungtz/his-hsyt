@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.30",
-  "frontend": "2026.09.30",
-  "notes": "Ban 2026.09.30: the BHYT sua o 4 cua (quyen bhyt-card.edit), giay giai thich tinh trang NB, GD2 phieu chay than, gia tang chi phi BHYT + thuyet minh, ke y lenh nhanh + chon phong tung dong, PT/TT theo dong chi dinh, phieu chi dinh/don thuoc tu Ke y lenh len Ky so, XML Bang 10/R085/dung tuyen, LIS lui may theo co so, canh bao tiep nhan khac phong. Schema 2026.09.29.9 (co predump).",
-  "releasedAt": "2026-09-30T02:35:24+07:00"
+  "backend": "2026.09.30.3",
+  "frontend": "2026.09.30.3",
+  "notes": "Noi tru: hoan tat RA VIEN truoc, thanh toan sau. Tong ket chi phi co 3 che do bang ke (Day du/BHYT/Gia BHYT), ap ca ban in va XML. O Truong hop KCB bo ma 1.2 o co so khong phai cap ban dau. O Bac si kham hien du nguoi kem nhan canh bao. Phieu chi dinh in kem so phong. Go tick quyen nay thu hoi that.",
+  "releasedAt": "2026-10-01T00:39:12+07:00"
 }
