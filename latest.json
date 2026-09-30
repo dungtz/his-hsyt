@@ -1,6 +1,6 @@
 {
-  "backend": "2026.09.30.3",
-  "frontend": "2026.09.30.3",
-  "notes": "Noi tru: hoan tat RA VIEN truoc, thanh toan sau. Tong ket chi phi co 3 che do bang ke (Day du/BHYT/Gia BHYT), ap ca ban in va XML. O Truong hop KCB bo ma 1.2 o co so khong phai cap ban dau. O Bac si kham hien du nguoi kem nhan canh bao. Phieu chi dinh in kem so phong. Go tick quyen nay thu hoi that.",
-  "releasedAt": "2026-10-01T00:39:12+07:00"
+  "backend": "2026.10.01",
+  "frontend": "2026.10.01",
+  "notes": "Con dau ky so cua 7 mau in nay roi dung khung ky, khong con dong xuong goc phai-duoi trang cuoi. Man Ky so tap trung bao loi dung viec phai lam. Bang khoi phuc ban nhap chi hien khi that su go do. Luoi danh muc gui cong them nut Doi chieu cong.",
+  "releasedAt": "2026-10-01T05:00:21+07:00"
 }
