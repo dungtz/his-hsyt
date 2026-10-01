@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.01.2",
-  "frontend": "2026.10.01.2",
-  "notes": "Phieu linh tach rieng Thuoc thuong va Vat tu. Ke toan in lai don thuoc o Tong ket chi phi. Pham vi chuyen mon hieu ma con thuoc ma cha. Dong bo Thuoc-Vat tu ghep dung biet duoc, chon duoc tung ma. Tra the: lich su KCB gop du hai nguon, khong mat luot. Khung anh PACS khong lat nguoc gio vua sua.",
-  "releasedAt": "2026-10-01T15:08:17+07:00"
+  "backend": "2026.10.01.3",
+  "frontend": "2026.10.01.3",
+  "notes": "Tiep don hien the ngay, lich su KCB tai sau. Doi bo loc tren luoi tu ve trang 1. Ket qua xet nghiem ngoai nguong duoc to mau tren ban in. KTV huy tiep nhan thi bac si sua/xoa duoc y lenh. Dong bo cong khong con de o DVKT khac cua nhan vien.",
+  "releasedAt": "2026-10-01T17:08:22+07:00"
 }
