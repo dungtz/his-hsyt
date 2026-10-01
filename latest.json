@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.01.1",
-  "frontend": "2026.10.01.1",
-  "notes": "Va nong: tiep don noi ro khi khong lay duoc lich su KCB tu cong va khong bat cho 90 giay. Gio thuc hien CDHA lay theo may chu. Hop chon dich vu kham chon dung dong dang dung, chua co thi chi tich khi phong con dung mot dich vu. Het phien cong thi nhap CAPTCHA tai cho.",
-  "releasedAt": "2026-10-01T11:17:30+07:00"
+  "backend": "2026.10.01.2",
+  "frontend": "2026.10.01.2",
+  "notes": "Hot fix",
+  "releasedAt": "2026-10-01T14:40:09+07:00"
 }
