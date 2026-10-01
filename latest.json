@@ -1,6 +1,6 @@
 {
   "backend": "2026.10.01.2",
   "frontend": "2026.10.01.2",
-  "notes": "Hot fix",
-  "releasedAt": "2026-10-01T14:40:09+07:00"
+  "notes": "Phieu linh tach rieng Thuoc thuong va Vat tu. Ke toan in lai don thuoc o Tong ket chi phi. Pham vi chuyen mon hieu ma con thuoc ma cha. Dong bo Thuoc-Vat tu ghep dung biet duoc, chon duoc tung ma. Tra the: lich su KCB gop du hai nguon, khong mat luot. Khung anh PACS khong lat nguoc gio vua sua.",
+  "releasedAt": "2026-10-01T15:08:17+07:00"
 }
