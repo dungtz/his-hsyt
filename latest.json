@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.01",
-  "frontend": "2026.10.01",
-  "notes": "Con dau ky so cua 7 mau in nay roi dung khung ky, khong con dong xuong goc phai-duoi trang cuoi. Man Ky so tap trung bao loi dung viec phai lam. Bang khoi phuc ban nhap chi hien khi that su go do. Luoi danh muc gui cong them nut Doi chieu cong.",
-  "releasedAt": "2026-10-01T05:00:21+07:00"
+  "backend": "2026.10.01.1",
+  "frontend": "2026.10.01.1",
+  "notes": "Va nong: tiep don noi ro khi khong lay duoc lich su KCB tu cong va khong bat cho 90 giay. Gio thuc hien CDHA lay theo may chu. Hop chon dich vu kham chon dung dong dang dung, chua co thi chi tich khi phong con dung mot dich vu. Het phien cong thi nhap CAPTCHA tai cho.",
+  "releasedAt": "2026-10-01T11:17:30+07:00"
 }
