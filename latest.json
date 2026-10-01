@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.01.3",
-  "frontend": "2026.10.01.3",
-  "notes": "Tiep don hien the ngay, lich su KCB tai sau. Doi bo loc tren luoi tu ve trang 1. Ket qua xet nghiem ngoai nguong duoc to mau tren ban in. KTV huy tiep nhan thi bac si sua/xoa duoc y lenh. Dong bo cong khong con de o DVKT khac cua nhan vien.",
-  "releasedAt": "2026-10-01T17:08:22+07:00"
+  "backend": "2026.10.01.4",
+  "frontend": "2026.10.01.4",
+  "notes": "Xoa phieu kham khong con bao loi. Man XML KCB them nut Kiem tra XML. Canh bao trung gio khi tra ket qua va khi sua hanh chinh CDHA, va o to trinh PT/TT. Khong xoa duoc chi dinh khi con to trinh PT/TT hieu luc. Danh sach ket qua co thanh thong ke va mac dinh hom nay.",
+  "releasedAt": "2026-10-01T23:08:29+07:00"
 }
