@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.01.4",
-  "frontend": "2026.10.01.4",
-  "notes": "Xoa phieu kham khong con bao loi. Man XML KCB them nut Kiem tra XML. Canh bao trung gio khi tra ket qua va khi sua hanh chinh CDHA, va o to trinh PT/TT. Khong xoa duoc chi dinh khi con to trinh PT/TT hieu luc. Danh sach ket qua co thanh thong ke va mac dinh hom nay.",
-  "releasedAt": "2026-10-01T23:08:29+07:00"
+  "backend": "2026.10.02",
+  "frontend": "2026.10.02",
+  "notes": "Cap cuu: nhap vien noi tru vao khoa kham benh duoc, ca noi tru duoi 4 gio khong tinh ngay giuong. Man XML KCB loc va dem theo ma rule, them luat kiem. Canh bao trung gio giua hai ho so trong ngay va theo ky thuat vien. Khong gan lon luot vao benh an nguoi benh khac.",
+  "releasedAt": "2026-10-02T04:14:42+07:00"
 }
