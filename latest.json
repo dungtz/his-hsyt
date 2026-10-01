@@ -1,6 +1,6 @@
 {
   "backend": "2026.10.02",
-  "frontend": "2026.10.02",
-  "notes": "Cap cuu: nhap vien noi tru vao khoa kham benh duoc, ca noi tru duoi 4 gio khong tinh ngay giuong. Man XML KCB loc va dem theo ma rule, them luat kiem. Canh bao trung gio giua hai ho so trong ngay va theo ky thuat vien. Khong gan lon luot vao benh an nguoi benh khac.",
-  "releasedAt": "2026-10-02T04:14:42+07:00"
+  "frontend": "2026.10.02.1",
+  "notes": "Sua loi o man Kham benh: luu chi dinh lan thu hai khong con mat phan vua nhap. Ban nay chi doi phan giao dien, khong doi may chu. Nguoi dung can tai lai cung trang bang Ctrl+Shift+R moi nhan duoc ban moi.",
+  "releasedAt": "2026-10-02T04:53:57+07:00"
 }
