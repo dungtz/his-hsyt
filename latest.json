@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.02.2",
-  "frontend": "2026.10.02.2",
-  "notes": "Noi tru khong con chan gio tuong lai: ra vien, xep giuong, chuyen giuong, chuyen khoa, ve phep, nhap vien, vao khoa, phieu cham soc, sinh hieu. Van giu kiem thu tu va van chan gui cong khi ngay ra vuot hien tai. Ban nay co khoi dong lai may chu.",
-  "releasedAt": "2026-10-02T09:10:35+07:00"
+  "backend": "2026.10.24.4",
+  "frontend": "2026.10.24.4",
+  "notes": "Mau benh an San khoa, Nhi, So sinh (MS 02, 05, 06) va phieu MS 50, 51; lien ket ho so me - con; thong nhat thao tac doi chieu danh muc cong (chon nhieu dong, xem truoc, chay nen); nut chat ho tro trong HIS; sua loi in va nhieu loi nho. Ban nay co khoi dong lai may chu va cap nhat co so du lieu.",
+  "releasedAt": "2026-10-25T14:20:00+07:00"
 }
