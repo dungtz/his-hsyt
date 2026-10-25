@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.25.1",
-  "frontend": "2026.10.25.1",
-  "notes": "Sua loi hien thi huong dan YHCT khoi Ra vien (cho phep sua o Benh chinh YHCT), chat ho tro ZenHIS AI khong bat hieu ung khi gui lai, tran 500 dong cho tao giuong hang loat, lien ket ho so me - con theo ho so, sua loi in mau San nhi. Ban nay co khoi dong lai may chu, khong doi co so du lieu.",
-  "releasedAt": "2026-10-25T21:25:00+07:00"
+  "backend": "2026.10.26.1",
+  "frontend": "2026.10.26.1",
+  "notes": "Tang toc nut Ap dung nhanh danh muc thuoc, them Phieu so ket 15 ngay dieu tri (MS 18/BV-01) cho noi tru (nhieu ban trong mot dot dieu tri), so giay chuyen tuyen va giay nghi BHXH tu cap theo nam. Ban nay co doi co so du lieu va khoi dong lai may chu.",
+  "releasedAt": "2026-10-26T02:45:00+07:00"
 }
