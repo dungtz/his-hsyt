@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.26.3",
-  "frontend": "2026.10.26.3",
-  "notes": "Sua loi khoa Y hoc co truyen: ra vien noi tru khong con bi chan 'Huong dieu tri tiep' khi benh an da dien muc 9 Huong dieu tri va cac che do tiep theo. Ban nay khong doi co so du lieu.",
-  "releasedAt": "2026-10-26T11:25:00+07:00"
+  "backend": "2026.10.26.4",
+  "frontend": "2026.10.26.4",
+  "notes": "Ra vien/ket thuc dot ngoai tru co o chon bac si ky; huy hoan tat to trinh PT/TT khong bi chan 'bat buoc chon may'; so xet nghiem dang pivot them cot Gio chi dinh va lam tron 2 chu so; loc ket qua xet nghiem theo barcode; giay chung sinh cho tung tre (song thai); thong bao cho bac si khi duoc tra lai khoa; ap dung danh muc cong theo tap nhanh hon; nhieu sua loi mau in san nhi. Ban nay co doi co so du lieu (se tu sao luu truoc khi nang cap).",
+  "releasedAt": "2026-10-26T20:31:00+07:00"
 }
