@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.26.1",
-  "frontend": "2026.10.26.1",
-  "notes": "Tang toc nut Ap dung nhanh danh muc thuoc, them Phieu so ket 15 ngay dieu tri (MS 18/BV-01) cho noi tru (nhieu ban trong mot dot dieu tri), so giay chuyen tuyen va giay nghi BHXH tu cap theo nam. Ban nay co doi co so du lieu va khoi dong lai may chu.",
-  "releasedAt": "2026-10-26T02:45:00+07:00"
+  "backend": "2026.10.26.2",
+  "frontend": "2026.10.26.2",
+  "notes": "Sua loi phieu so ket 15 ngay dieu tri: lap ban moi khong con de nghi khoi phuc noi dung cua ban da luu. Ban nay chi doi giao dien, khong doi co so du lieu.",
+  "releasedAt": "2026-10-26T08:30:00+07:00"
 }
