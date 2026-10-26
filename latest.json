@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.26.2",
-  "frontend": "2026.10.26.2",
-  "notes": "Sua loi phieu so ket 15 ngay dieu tri: lap ban moi khong con de nghi khoi phuc noi dung cua ban da luu. Ban nay chi doi giao dien, khong doi co so du lieu.",
-  "releasedAt": "2026-10-26T08:30:00+07:00"
+  "backend": "2026.10.26.3",
+  "frontend": "2026.10.26.3",
+  "notes": "Sua loi khoa Y hoc co truyen: ra vien noi tru khong con bi chan 'Huong dieu tri tiep' khi benh an da dien muc 9 Huong dieu tri va cac che do tiep theo. Ban nay khong doi co so du lieu.",
+  "releasedAt": "2026-10-26T11:25:00+07:00"
 }
