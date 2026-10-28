@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.29.2",
-  "frontend": "2026.10.29.2",
-  "notes": "Giấy chuyển tuyến/chứng từ gửi cổng hiển thị đúng 5 trạng thái (chưa gửi, lỗi gửi, cổng đã tiếp nhận, đạt, bị loại) kèm nút «Cổng đã loại» có ghi lý do; phiếu theo dõi chuyển dạ và sau sinh không còn mất viền phải/cắt ô Para; nút «Khám xong» khoá khi tài khoản không có quyền kết thúc khám; sửa nhiều lỗi nhỏ. Bản này có cập nhật cơ sở dữ liệu (đã sao lưu trước khi nâng).",
-  "releasedAt": "2026-10-29T02:45:00+07:00"
+  "backend": "2026.10.29.3",
+  "frontend": "2026.10.29.3",
+  "notes": "Phiếu kết quả chẩn đoán hình ảnh và thăm dò chức năng: ảnh in thêm tràn sang trang kế khi không đủ chỗ thay vì bị mất, và không còn trang chỉ có hàng chữ ký. Bản này không thay đổi cơ sở dữ liệu.",
+  "releasedAt": "2026-10-29T06:40:00+07:00"
 }
