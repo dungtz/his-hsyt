@@ -1,6 +1,6 @@
 {
   "backend": "2026.10.28.6",
   "frontend": "2026.10.28.6",
-  "notes": "Phiếu CĐHA in tối đa 8 ảnh theo cấu hình dịch vụ; lọc Danh sách khám bệnh theo mã bệnh chính ICD-10; ký chồng giấy chứng nhận giữ đúng trạng thái người đã ký; tổng kết bệnh án đổi theo bác sĩ điều trị ở bìa; chat hỗ trợ trong HIS; che bí mật khi cổng báo lỗi; sửa nhiều lỗi nhỏ. Bản này có cập nhật cơ sở dữ liệu (đã sao lưu trước khi nâng).",
+  "notes": "Phiếu CĐHA in tối đa 8 ảnh theo cấu hình dịch vụ; lọc Danh sách khám bệnh theo mã bệnh chính ICD-10; ký chồng giấy chứng nhận giữ đúng trạng thái người đã ký; tổng kết bệnh án đổi theo bác sĩ điều trị ở bìa; che bí mật khi cổng báo lỗi; sửa nhiều lỗi nhỏ. Bản này có cập nhật cơ sở dữ liệu (đã sao lưu trước khi nâng).",
   "releasedAt": "2026-10-28T22:55:00+07:00"
 }
