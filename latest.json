@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.28.1",
-  "frontend": "2026.10.28.1",
-  "notes": "Man goi so phong kham: chu ten phong to hon (40-64px), khong bi cat. Ban nay khong doi co so du lieu.",
-  "releasedAt": "2026-10-28T09:40:00+07:00"
+  "backend": "2026.10.28.2",
+  "frontend": "2026.10.28.2",
+  "notes": "Ba phieu San moi (partogram, theo doi chuyen da, theo doi sau sinh); phieu ket qua xet nghiem cua chi dinh ke tu dot dieu tri in duoc; cau chan chot vien phi thu thuat chi dung duong hoan tat tuong trinh; giay chuyen tuyen di cung XML13 (khong con nut gui rieng); hop doi chieu Excel cong hien them ngay ra; phieu sieu am tim khong con muc Mo ta thua. Ban nay co doi co so du lieu (them seed phieu San, add-only).",
+  "releasedAt": "2026-10-28T13:12:00+07:00"
 }
