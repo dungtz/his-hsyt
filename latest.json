@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.28.3",
+  "backend": "2026.10.28.4",
   "frontend": "2026.10.28.3",
-  "notes": "Phieu ket qua CDHA/TDCN cua chi dinh ke tu dot dieu tri in dung Chan doan so bo; so XN: nam sinh khong con dau nghin; phieu ket qua XN: cot May XN khong tran le, cot Don vi du rong; man goi so: so thu tu nho lai, ten phong dai khong bi cat, ten benh nhan toi da 2 dong, tieng phong 206 va 210 thu lai. Ban nay khong doi co so du lieu.",
-  "releasedAt": "2026-10-28T14:48:00+07:00"
+  "notes": "Chot chi phi: khong con goi lenh bu the BHYT tu cong BHXH cho luot kham dich vu (vien phi); luot BHYT giu nguyen. Ban nay khong doi co so du lieu.",
+  "releasedAt": "2026-10-28T16:32:00+07:00"
 }
