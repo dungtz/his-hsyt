@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.28.6",
-  "frontend": "2026.10.28.6",
-  "notes": "Phiếu CĐHA in tối đa 8 ảnh theo cấu hình dịch vụ; lọc Danh sách khám bệnh theo mã bệnh chính ICD-10; ký chồng giấy chứng nhận giữ đúng trạng thái người đã ký; tổng kết bệnh án đổi theo bác sĩ điều trị ở bìa; che bí mật khi cổng báo lỗi; sửa nhiều lỗi nhỏ. Bản này có cập nhật cơ sở dữ liệu (đã sao lưu trước khi nâng).",
-  "releasedAt": "2026-10-28T22:55:00+07:00"
+  "backend": "2026.10.29.1",
+  "frontend": "2026.10.29.1",
+  "notes": "Tờ khám sức khoẻ in theo mẫu; kết quả CĐHA/TDCN lấy Mã KCB theo lượt; Lịch sử khám bệnh xem được PDF của lượt chưa có bệnh án; cảnh báo mềm thuốc cơ cấu gây mê ở Tổng kết chi phí (chỉ hiện khi đã khai danh sách); khoá thu hồi phiên có ghi IP/thiết bị; chặn kết thúc khám với tài khoản không có quyền; thêm 2 rule cảnh báo trước khi gửi (người ký XML7, người thực hiện XML5); huy hiệu chat đếm cả tin nhân viên; chọn nhiều khoa/loại khi lập phiếu lĩnh; sửa nhiều lỗi nhỏ. Bản này có cập nhật cơ sở dữ liệu (đã sao lưu trước khi nâng).",
+  "releasedAt": "2026-10-29T01:45:00+07:00"
 }
