@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.28.4",
+  "backend": "2026.10.28.5",
   "frontend": "2026.10.28.3",
-  "notes": "Chot chi phi: khong con goi lenh bu the BHYT tu cong BHXH cho luot kham dich vu (vien phi); luot BHYT giu nguyen. Ban nay khong doi co so du lieu.",
-  "releasedAt": "2026-10-28T16:32:00+07:00"
+  "notes": "Giay ra vien/chung tu gui cong: CT04 (tom tat benh an) dung ten the MA_DANTOC theo tai lieu cong. Ban nay khong doi co so du lieu.",
+  "releasedAt": "2026-10-28T17:32:00+07:00"
 }
