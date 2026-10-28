@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.27.2",
-  "frontend": "2026.10.27.2",
-  "notes": "Giay nghi BHXH: tu dien Ma BHXH tu the, bat buoc nhap Don vi (chan luu/hoan tat/gui cong khi thieu); XML3 dong ngay giuong khong de NGAY_YL truoc ngay vao vien; ket qua xet nghiem nuoc tieu que chu/dau khong hien don vi, chi so binh thuong dang chu; vat tu tieu hao thua cu tich luy chia deu theo tung dong; so to dieu tri danh lai tu 1 moi khoa; chung tu CT03/CT04/CT07 gui cong dien du MA_BHXH, dan toc, ly do vao vien, don vi; giay chuyen tuyen gui ma co so chuyen den. Ban nay co doi co so du lieu (luat R079 nghi BHXH, se tu sao luu truoc khi nang cap).",
+  "backend": "2026.10.28.1",
+  "frontend": "2026.10.28.1",
+  "notes": "Man goi so phong kham: chu ten phong to hon (40-64px), khong bi cat. Ban nay khong doi co so du lieu.",
   "releasedAt": "2026-10-27T13:50:00+07:00"
 }
