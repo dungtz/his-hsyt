@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.29.3",
-  "frontend": "2026.10.29.3",
-  "notes": "Phiếu kết quả chẩn đoán hình ảnh và thăm dò chức năng: ảnh in thêm tràn sang trang kế khi không đủ chỗ thay vì bị mất, và không còn trang chỉ có hàng chữ ký. Bản này không thay đổi cơ sở dữ liệu.",
-  "releasedAt": "2026-10-29T06:40:00+07:00"
+  "backend": "2026.10.29.4",
+  "frontend": "2026.10.29.4",
+  "notes": "Đổi phòng khám sau khi phiếu chỉ định hoặc đơn thuốc đã ký: hệ thống cấp bản in mới ghi phòng mới, chờ ký lại, và giữ nguyên bản đã ký làm lịch sử. Ca điều trị ngoại trú mạn tính nhiều ngày có kỹ thuật được ghi mã loại KCB 08 theo yêu cầu của công cụ kiểm tra bảo hiểm. Lưới nội trú: cột và bộ lọc «Ngày ra viện» chỉ tính khi đợt đã chốt ra viện. Bản này không thay đổi cơ sở dữ liệu.",
+  "releasedAt": "2026-10-29T09:25:00+07:00"
 }
