@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.29.6",
-  "frontend": "2026.10.29.6",
-  "notes": "Dược › Phiếu lĩnh: thêm cảnh báo đơn thuốc nội trú đã ẩn khỏi quầy nhưng chưa vào phiếu lĩnh, và đơn đang nằm ở phiếu Nháp chưa gửi, có xuất Excel. Bảng kê lượt viện phí không còn mang trường bảo hiểm; sửa lỗi dòng giường phải thu bị nhân đôi khi tính lại. Màn Tiếp nhận vào khoa chọn sẵn loại hình 08 khi bệnh chính thuộc Phụ lục I, khoa vẫn đổi được. Bản này không thay đổi cơ sở dữ liệu.",
-  "releasedAt": "2026-10-29T12:15:00+07:00"
+  "backend": "2026.10.29.7",
+  "frontend": "2026.10.29.7",
+  "notes": "Màn Tiếp đón: khi tra cổng thẻ BHYT bị từ chối (ví dụ sai ngày sinh, sai họ tên, sai mã thẻ) chỉ hiện một thông báo, tự tắt sau vài giây và có nút đóng; câu báo kèm dòng hướng dẫn cách sửa. Bản này không thay đổi cơ sở dữ liệu.",
+  "releasedAt": "2026-10-29T16:05:00+07:00"
 }
