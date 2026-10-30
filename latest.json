@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.30.4",
-  "frontend": "2026.10.30.4",
-  "notes": "Phiếu lĩnh: hiện ảnh chữ ký ở ô Người lập, Trưởng khoa, Khoa Dược trên bản in (thiếu ảnh thì chỉ in tên); bản in gộp in theo từng phiếu con.",
-  "releasedAt": "2026-10-30T16:48:14+07:00"
+  "backend": "2026.10.30.5",
+  "frontend": "2026.10.30.5",
+  "notes": "Báo cáo tổng hợp khoa: dòng Khoa in tên khoa, nhãn bác sĩ ngắn. Nhập viện từ đợt điều trị ngoại trú: đợt ngoại trú tự kết thúc.",
+  "releasedAt": "2026-10-30T18:00:11+07:00"
 }
