@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.30.6",
-  "frontend": "2026.10.30.6",
-  "notes": "Phiếu lĩnh: bản in hiện ảnh chữ ký. Khai báo luật chống chỉ định DVKT đầy đủ (giới, tuổi, các cờ kiểm, chức danh, phạm vi chuyên môn) ngay trên màn. Quyền xem danh sách nội trú toàn viện cho điều dưỡng trực. Bảng kê: người lập mặc định là bác sĩ khám chính (ngoại trú). Bệnh án Nhi: trang Tổng kết theo mẫu Bộ Y tế.",
-  "releasedAt": "2026-10-30T19:39:57+07:00"
+  "backend": "2026.10.30.7",
+  "frontend": "2026.10.30.7",
+  "notes": "Siết quyền truy cập thêm 15 chức năng đã đo sạch vết (danh mục khoa/hàng hoá/biểu mẫu chuyên khoa, thao tác điều dưỡng). Giấy chứng sinh gửi cổng dựng bộ thẻ theo phụ lục 2; giấy nghỉ dưỡng thai điền mã tỉnh/xã cư trú.",
+  "releasedAt": "2026-10-30T21:01:29+07:00"
 }
