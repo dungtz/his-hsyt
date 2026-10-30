@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.30.5",
-  "frontend": "2026.10.30.5",
-  "notes": "Báo cáo tổng hợp khoa: dòng Khoa in tên khoa, nhãn bác sĩ ngắn. Nhập viện từ đợt điều trị ngoại trú: đợt ngoại trú tự kết thúc.",
-  "releasedAt": "2026-10-30T18:00:11+07:00"
+  "backend": "2026.10.30.6",
+  "frontend": "2026.10.30.6",
+  "notes": "Phiếu lĩnh: bản in hiện ảnh chữ ký. Khai báo luật chống chỉ định DVKT đầy đủ (giới, tuổi, các cờ kiểm, chức danh, phạm vi chuyên môn) ngay trên màn. Quyền xem danh sách nội trú toàn viện cho điều dưỡng trực. Bảng kê: người lập mặc định là bác sĩ khám chính (ngoại trú). Bệnh án Nhi: trang Tổng kết theo mẫu Bộ Y tế.",
+  "releasedAt": "2026-10-30T19:39:57+07:00"
 }
