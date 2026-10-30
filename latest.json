@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.30.9",
-  "frontend": "2026.10.30.9",
-  "notes": "Siết quyền đợt 1: các màn danh mục (nhà cung cấp, hàng hoá, tỉnh) chỉ mở cho vai có quyền tương ứng. Xem nháp XML giấy chứng sinh (69 thẻ) và thẻ nơi cư trú chứng từ đúng đặc tả.",
-  "releasedAt": "2026-10-31T01:21:08+07:00"
+  "backend": "2026.10.31.1",
+  "frontend": "2026.10.31.1",
+  "notes": "Giao diện: nút xoá, làm mới, xem, in, đóng đồng nhất theo biểu tượng chuẩn; danh sách chọn danh mục hiện đầy đủ hơn (tối đa 200 mục).",
+  "releasedAt": "2026-10-31T02:21:31+07:00"
 }
