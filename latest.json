@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.30.2",
-  "frontend": "2026.10.30.2",
-  "notes": "Phiếu lĩnh: lập MỘT phiếu cho nhiều khoa chung kho (chỉ cần một trưởng khoa duyệt); danh sách của khoa Dược mặc định ẩn phiếu Nháp / Đã huỷ. Bệnh án ngoại trú mạn tính (mã 05): gợi ý gộp lượt khám vào cùng hồ sơ và nút Đóng hồ sơ mạn tính. Báo cáo mới: Báo cáo tổng hợp khoa (lọc khoa / bác sĩ). Sửa lỗi Đơn thuốc quốc gia báo đã gửi khi đơn chưa gửi, không xoá được. Bản này bổ sung bảng dữ liệu mới (có sao lưu trước khi nâng cấp).",
-  "releasedAt": "2026-10-30T14:30:44+07:00"
+  "backend": "2026.10.30.3",
+  "frontend": "2026.10.30.3",
+  "notes": "Phiếu lĩnh: ô «Thuốc / vật tư» hiện tên thuốc đã ghi trên dòng khi thuốc không còn trong danh mục đang dùng (kèm cảnh báo chọn thuốc thay thế). Khung chat Hỗ trợ: không còn giữ lại hội thoại của người trước khi đổi tài khoản.",
+  "releasedAt": "2026-10-30T15:52:59+07:00"
 }
