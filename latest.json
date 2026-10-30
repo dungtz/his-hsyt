@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.30.3",
-  "frontend": "2026.10.30.3",
-  "notes": "Phiếu lĩnh: ô «Thuốc / vật tư» hiện tên thuốc đã ghi trên dòng khi thuốc không còn trong danh mục đang dùng (kèm cảnh báo chọn thuốc thay thế). Khung chat Hỗ trợ: không còn giữ lại hội thoại của người trước khi đổi tài khoản.",
-  "releasedAt": "2026-10-30T15:52:59+07:00"
+  "backend": "2026.10.30.4",
+  "frontend": "2026.10.30.4",
+  "notes": "Phiếu lĩnh: hiện ảnh chữ ký ở ô Người lập, Trưởng khoa, Khoa Dược trên bản in (thiếu ảnh thì chỉ in tên); bản in gộp in theo từng phiếu con.",
+  "releasedAt": "2026-10-30T16:48:14+07:00"
 }
