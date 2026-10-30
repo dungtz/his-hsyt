@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.31.3",
-  "frontend": "2026.10.31.3",
-  "notes": "Giao diện: hai màn Bệnh án (khám bệnh và điều trị ngoại trú) dùng chung một khung; Hội chẩn dùng chung phần bản in. Không đổi cách dùng.",
-  "releasedAt": "2026-10-31T04:41:24+07:00"
+  "backend": "2026.10.31.4",
+  "frontend": "2026.10.31.4",
+  "notes": "Giao diện: hai trang tiếp nhận chỉ định quét mã vạch (xét nghiệm và CĐHA) dùng chung khung. Không đổi cách dùng.",
+  "releasedAt": "2026-10-31T05:47:45+07:00"
 }
