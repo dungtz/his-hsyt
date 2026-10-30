@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.30.8",
-  "frontend": "2026.10.30.8",
-  "notes": "Màn gọi số theo phòng có thể đọc thêm tên người bệnh khi cơ sở bật dịch vụ giọng đọc (mặc định tắt). Hệ thống thêm bảng hàng đợi tạo tệp giọng đọc.",
-  "releasedAt": "2026-10-30T23:01:09+07:00"
+  "backend": "2026.10.30.9",
+  "frontend": "2026.10.30.9",
+  "notes": "Siết quyền đợt 1: các màn danh mục (nhà cung cấp, hàng hoá, tỉnh) chỉ mở cho vai có quyền tương ứng. Xem nháp XML giấy chứng sinh (69 thẻ) và thẻ nơi cư trú chứng từ đúng đặc tả.",
+  "releasedAt": "2026-10-31T01:21:08+07:00"
 }
