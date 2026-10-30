@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.30.7",
-  "frontend": "2026.10.30.7",
-  "notes": "Siết quyền truy cập thêm 15 chức năng đã đo sạch vết (danh mục khoa/hàng hoá/biểu mẫu chuyên khoa, thao tác điều dưỡng). Giấy chứng sinh gửi cổng dựng bộ thẻ theo phụ lục 2; giấy nghỉ dưỡng thai điền mã tỉnh/xã cư trú.",
-  "releasedAt": "2026-10-30T21:01:29+07:00"
+  "backend": "2026.10.30.8",
+  "frontend": "2026.10.30.8",
+  "notes": "Màn gọi số theo phòng có thể đọc thêm tên người bệnh khi cơ sở bật dịch vụ giọng đọc (mặc định tắt). Hệ thống thêm bảng hàng đợi tạo tệp giọng đọc.",
+  "releasedAt": "2026-10-30T23:01:09+07:00"
 }
