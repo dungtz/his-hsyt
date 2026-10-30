@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.29.9",
-  "frontend": "2026.10.29.9",
-  "notes": "Mẫu in Bệnh án Nhi khoa (trang 3): chỉnh giãn dòng và cỡ chữ cho cân đối, vừa trang in.",
-  "releasedAt": "2026-10-29T21:48:46+07:00"
+  "backend": "2026.10.30.1",
+  "frontend": "2026.10.30.1",
+  "notes": "Sửa lỗi Sửa phiếu xuất kho / chuyển kho nháp báo «vừa được người khác cập nhật» không lưu được. Khung chat Hỗ trợ giữ lại tin nhắn của người dùng sau khi tải lại trang.",
+  "releasedAt": "2026-10-30T11:46:09+07:00"
 }
