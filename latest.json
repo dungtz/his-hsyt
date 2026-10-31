@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.31.5",
-  "frontend": "2026.10.31.5",
-  "notes": "Giao diện: gom mã dùng chung ở danh sách phiếu và thẻ kết quả xét nghiệm / CĐHA, form bệnh án YHCT. Không đổi cách dùng.",
-  "releasedAt": "2026-10-31T06:55:26+07:00"
+  "backend": "2026.10.31.6",
+  "frontend": "2026.10.31.6",
+  "notes": "Giao diện: gom mã dùng chung ở hai trang chính sách/điều khoản và màn lịch timeline. Không đổi cách dùng.",
+  "releasedAt": "2026-10-31T08:20:14+07:00"
 }
