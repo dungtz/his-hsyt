@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.31.15",
-  "frontend": "2026.10.31.15",
-  "notes": "Nền chạy .NET 10. Chip lọc nhanh: sửa vị trí ở màn gán vai trò, thêm số đếm «Tất cả» ở nội trú và đối chiếu LQT, thêm chip «Khác» ở nhật ký hệ thống, bỏ chip «Đã hủy» ở tiếp đón.",
-  "releasedAt": "2026-11-01T00:30:00+07:00"
+  "backend": "2026.10.31.16",
+  "frontend": "2026.10.31.16",
+  "notes": "Báo cáo BHYT C79: tách theo nhóm bệnh chính (cài đặt nhóm ở nút ⚙). Danh mục thuốc gửi cổng: thêm tab «Tương tác» khai cặp tương tác thuốc. Hệ thống: chuẩn bị đọc tên người bệnh khi gọi số (mặc định tắt).",
+  "releasedAt": "2026-11-01T02:40:00+07:00"
 }
