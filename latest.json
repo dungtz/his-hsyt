@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.31.9",
-  "frontend": "2026.10.31.9",
-  "notes": "Giao diện: sửa màu thẻ «Dữ liệu hợp lệ» ở chi tiết hồ sơ BHYT (nền xanh nhạt như trước).",
-  "releasedAt": "2026-10-31T11:37:15+07:00"
+  "backend": "2026.10.31.10",
+  "frontend": "2026.10.31.10",
+  "notes": "Phiếu lĩnh thuốc: lọc theo loại hình ở màn lập phiếu. Chặn trùng phút của cùng bác sĩ, chặn mở lượt mới khi người bệnh còn lượt đang mở, chặn chuyển khoa trùng, và khoa tự «Trả lại chờ vào khoa» được. Xét nghiệm: cảnh báo khi cầu nối máy xét nghiệm đứt (tự gửi lại y lệnh), nút «Gộp kết quả». Kế toán/điều dưỡng xem được danh mục địa giới. Bỏ cảnh báo giờ nhân viên toàn cục.",
+  "releasedAt": "2026-10-31T14:19:17+07:00"
 }
