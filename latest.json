@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.31.11",
-  "frontend": "2026.10.31.11",
-  "notes": "Phiếu lĩnh: khoa lập phiếu được huỷ phiếu «Chờ khoa Dược xuất» khi Dược chưa xuất. Danh mục dịch vụ y tế: sửa 2 lỗi nhỏ (cờ sơ đồ vẽ, kiểm mã cơ sở khám bệnh).",
-  "releasedAt": "2026-10-31T15:54:50+07:00"
+  "backend": "2026.10.31.12",
+  "frontend": "2026.10.31.12",
+  "notes": "In kết quả xét nghiệm: thêm chế độ gộp theo Y lệnh. Phiếu lĩnh: thêm cột «Lĩnh theo y lệnh ngày». Chặn trùng ê-kíp khi duyệt/hoàn tất, kiểm vòng cha–con ở danh mục ICD và bộ phận KCB, mã khoa tạm lấy từ danh mục khoa khi kho cổng rỗng.",
+  "releasedAt": "2026-10-31T19:11:22+07:00"
 }
