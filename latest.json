@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.31.12",
-  "frontend": "2026.10.31.12",
-  "notes": "In kết quả xét nghiệm: thêm chế độ gộp theo Y lệnh. Phiếu lĩnh: thêm cột «Lĩnh theo y lệnh ngày». Chặn trùng ê-kíp khi duyệt/hoàn tất, kiểm vòng cha–con ở danh mục ICD và bộ phận KCB, mã khoa tạm lấy từ danh mục khoa khi kho cổng rỗng.",
-  "releasedAt": "2026-10-31T19:11:22+07:00"
+  "backend": "2026.10.31.14",
+  "frontend": "2026.10.31.14",
+  "notes": "Nâng nền chạy lên .NET 10 (hỗ trợ dài hạn, thay .NET 9 hết hỗ trợ 10/11): cần tải lại ảnh khi cập nhật, chức năng không đổi. Sửa kiểm cờ hoạt động/cờ cha ở danh mục ICD và bộ phận KCB.",
+  "releasedAt": "2026-10-31T22:30:00+07:00"
 }
