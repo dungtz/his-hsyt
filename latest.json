@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.31.21",
-  "frontend": "2026.10.31.21",
-  "notes": "Tiếp đón: sửa được ngày vào, loại hình/đối tượng KCB và thông tin hành chính của lượt đã chốt chi phí; XML tự đánh dấu dựng lại. Dịch vụ và hình thức KCB sau chốt vẫn khóa.",
-  "releasedAt": "2026-11-01T16:25:00+07:00"
+  "backend": "2026.10.31.22",
+  "frontend": "2026.10.31.22",
+  "notes": "Tờ điều trị hiện chỉ số sinh tồn khi có điền; sửa đăng ký sau chốt: giữ nguyên đối tượng KCB và giây ngày vào khi không sửa; đổi thẻ BHYT trên lượt đã chốt có đoạn quyền lợi không còn lỗi; xuất Excel báo cáo C79, Quyết toán quý, ICD-10 dùng đường chung; nhận diện CAPTCHA cổng thẻ tự làm mới 3 vòng.",
+  "releasedAt": "2026-11-01T18:40:00+07:00"
 }
