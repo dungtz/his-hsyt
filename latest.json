@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.31.16",
-  "frontend": "2026.10.31.16",
-  "notes": "Báo cáo BHYT C79: tách theo nhóm bệnh chính (cài đặt nhóm ở nút ⚙). Danh mục thuốc gửi cổng: thêm tab «Tương tác» khai cặp tương tác thuốc. Hệ thống: chuẩn bị đọc tên người bệnh khi gọi số (mặc định tắt).",
-  "releasedAt": "2026-11-01T02:40:00+07:00"
+  "backend": "2026.10.31.17",
+  "frontend": "2026.10.31.17",
+  "notes": "Danh mục thuốc gửi cổng: màn khai/nhập Excel cặp tương tác thuốc, quyền riêng cho tương tác thuốc và nhóm bệnh chính. Báo cáo BHYT C79: lọc «chỉ nhóm». Cảnh báo giường điều trị ban ngày (ngoài 06–22h, người thứ 4). Tiếp đón: nhập song song hệ cũ (mã hệ cũ, bộ đếm tự nâng, mặc định tắt).",
+  "releasedAt": "2026-11-01T10:20:00+07:00"
 }
