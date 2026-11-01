@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.31.19",
-  "frontend": "2026.10.31.19",
-  "notes": "Tiếp đón: chức năng «Dời ngày» lượt khám ngoại trú (xem trước, hoàn tác, quyền riêng; lượt chưa thu/chưa gửi cổng). Nhập song song hệ cũ: mã bệnh nhân hệ cũ trùng mã HIS bị từ chối khi bật cờ.",
-  "releasedAt": "2026-11-01T13:28:00+07:00"
+  "backend": "2026.10.31.20",
+  "frontend": "2026.10.31.20",
+  "notes": "Nhận diện CAPTCHA cổng tra cứu thẻ: tự thử lại 3 vòng làm mới khi độ tin cậy thấp trước khi chuyển cho người nhập; tự ngắt khi cổng hụt liên tục.",
+  "releasedAt": "2026-11-01T14:43:00+07:00"
 }
