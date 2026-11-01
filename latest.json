@@ -1,6 +1,6 @@
 {
-  "backend": "2026.10.31.22",
-  "frontend": "2026.10.31.22",
-  "notes": "Tờ điều trị hiện chỉ số sinh tồn khi có điền; sửa đăng ký sau chốt: giữ nguyên đối tượng KCB và giây ngày vào khi không sửa; đổi thẻ BHYT trên lượt đã chốt có đoạn quyền lợi không còn lỗi; xuất Excel báo cáo C79, Quyết toán quý, ICD-10 dùng đường chung; nhận diện CAPTCHA cổng thẻ tự làm mới 3 vòng.",
-  "releasedAt": "2026-11-01T18:40:00+07:00"
+  "backend": "2026.10.31.23",
+  "frontend": "2026.10.31.23",
+  "notes": "Thêm công cụ sửa Mã bệnh nhân và MA_LK trên màn khám (mặc định tắt, bật bằng cờ; quyền: quản trị, kế toán, tiếp đón; chặn khi đã gửi cổng, đã ký số hoặc có ảnh PACS; có xem trước, nhật ký, hoàn tác). Gọn mã hội chẩn và hồ sơ bệnh án.",
+  "releasedAt": "2026-11-01T21:25:00+07:00"
 }
