@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.02.3",
-  "frontend": "2026.11.02.3",
-  "notes": "Màn đối soát QR: thêm xử lý «Đã hoàn tiền» / «Đóng không thu» cho giao dịch lệch. Bệnh án: sinh hiệu ghi qua phép đo riêng (nhận số lẻ, làm tròn). Bệnh án YHCT ngoại trú mục VI lấy từ chẩn đoán, sửa lại được. Biên bản hội chẩn đã ký: Sửa rồi Lưu không đổi chữ không tạo bản mới. Gom thêm các sửa lỗi nhỏ.",
-  "releasedAt": "2026-11-02T13:05:00+07:00"
+  "backend": "2026.11.02.4",
+  "frontend": "2026.11.02.4",
+  "notes": "Lưu bệnh án: kết quả trả về sau khi Lưu hiện sinh hiệu đã làm tròn đúng như đã lưu (72,5 → 73), PDF in ngay sau Lưu khớp. Ổn định bộ kiểm thử nội bộ.",
+  "releasedAt": "2026-11-02T15:21:00+07:00"
 }
