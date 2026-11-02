@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.02.6",
-  "frontend": "2026.11.02.6",
-  "notes": "Ra viện: không còn bị chặn nhầm vì bản tin check-in cũ thiếu mã đối tượng KCB; sửa đối tượng KCB ở nội trú tự bổ sung vào bản tin check-in còn trống; câu báo lỗi nói rõ là bản tin check-in và gợi ý Tạo lại check-in. Nhập viện lượt BHYT (kể cả cấp cứu BHYT, vô danh) bắt buộc chọn Đối tượng KCB; tích Cấp cứu tự gợi «2 – Cấp cứu».",
-  "releasedAt": "2026-11-02T18:34:00+07:00"
+  "backend": "2026.11.02.7",
+  "frontend": "2026.11.02.7",
+  "notes": "Báo cáo 01/BH: hiện danh sách chi tiết từng hồ sơ bên dưới phần tổng hợp theo kỳ, bấm dòng mở hồ sơ, xuất Excel kèm dòng Cộng. Dược khai nhóm dược lý (corticoid) hoặc loại kiểm soát (gây nghiện, hướng thần) trong Danh mục thì màn kê và tờ điều trị tự đánh số ngày dùng như kháng sinh.",
+  "releasedAt": "2026-11-02T20:38:00+07:00"
 }
