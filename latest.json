@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.02.7",
-  "frontend": "2026.11.02.7",
-  "notes": "Báo cáo 01/BH: hiện danh sách chi tiết từng hồ sơ bên dưới phần tổng hợp theo kỳ, bấm dòng mở hồ sơ, xuất Excel kèm dòng Cộng. Dược khai nhóm dược lý (corticoid) hoặc loại kiểm soát (gây nghiện, hướng thần) trong Danh mục thì màn kê và tờ điều trị tự đánh số ngày dùng như kháng sinh.",
-  "releasedAt": "2026-11-02T20:38:00+07:00"
+  "backend": "2026.11.02.8",
+  "frontend": "2026.11.02.8",
+  "notes": "Tiếp đón: lượt BHYT bắt buộc chọn Đối tượng KCB; nội trú sửa được lượt BHYT đang trống đối tượng và tự bổ sung vào bản tin check-in. Phiếu lĩnh: bác sĩ chỉ xem/duyệt phiếu khoa mình (mở toàn viện bằng quyền riêng). Màn XML KCB: dải Đối soát cổng theo kỳ; nút thu hồi 09/BH. Đăng nhập cổng: đọc CAPTCHA chính xác hơn, báo lỗi dễ hiểu kèm Thử lại. Gọi số: giọng đọc mới.",
+  "releasedAt": "2026-11-02T22:59:00+07:00"
 }
