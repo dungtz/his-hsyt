@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.02.4",
-  "frontend": "2026.11.02.4",
-  "notes": "Lưu bệnh án: kết quả trả về sau khi Lưu hiện sinh hiệu đã làm tròn đúng như đã lưu (72,5 → 73), PDF in ngay sau Lưu khớp. Ổn định bộ kiểm thử nội bộ.",
-  "releasedAt": "2026-11-02T15:21:00+07:00"
+  "backend": "2026.11.02.5",
+  "frontend": "2026.11.02.5",
+  "notes": "Gửi hồ sơ tổng hợp 01/BH, điều chỉnh 09/BH, báo cáo tổng hợp lên cổng: chờ cổng trả lời tới 90 giây (trước bị cắt ở 30 giây). Nếu cổng chưa trả lời kịp, màn báo rõ «gói đã gửi đi, kiểm trên cổng trước khi gửi lại» và ghi nhật ký gửi.",
+  "releasedAt": "2026-11-02T17:21:00+07:00"
 }
