@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.03.1",
-  "frontend": "2026.11.03.1",
-  "notes": "Quản trị người dùng: nút Đặt lại mật khẩu (mật khẩu tạm, buộc đổi ở lần đăng nhập đầu). Khám bệnh: chặn Kết thúc khám và Lưu đơn khi giờ kê đơn không sau giờ trả kết quả cận lâm sàng. CĐHA/TDCN: gọi số, vắng, màn hình chờ như phòng khám. Báo cáo công suất sử dụng giường theo khoa. Xét nghiệm: đổi barcode phiếu tự gửi lại y lệnh xuống máy. Nội trú: sửa lỗi không Trả lại chờ vào khoa được. Đăng nhập ổn định hơn. Gia cố bảo mật.",
-  "releasedAt": "2026-11-03T18:50:00+07:00"
+  "backend": "2026.11.03.2",
+  "frontend": "2026.11.03.2",
+  "notes": "Cỡ chữ toàn hệ thống to hơn một nấc. Lưới danh sách nội trú thấy nhiều dòng hơn; tờ điều trị: nút gom cụm, tên thuốc xuống dòng không bị cắt. Bàn phím: chọn dịch vụ và bệnh nhân bằng phím mũi tên/Enter; nút chỉ có biểu tượng có tên. Thống nhất chính tả (Xoá, Huỷ, Khoá). Phiếu phẫu thuật: nút Xoá phiếu cho mọi loại phiếu quanh ca; chỉ xoá/huỷ ca mổ khi đã xoá hết phiếu thuộc ca. Chặn trùng phút y lệnh cho cả bác sĩ riêng của dòng con. Cảnh báo vật tư ngoài đợt thầu ghi rõ mã và ngày. Gia cố bảo mật.",
+  "releasedAt": "2026-11-03T23:45:00+07:00"
 }
