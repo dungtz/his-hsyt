@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.02.8",
-  "frontend": "2026.11.02.8",
-  "notes": "Tiếp đón: lượt BHYT bắt buộc chọn Đối tượng KCB; nội trú sửa được lượt BHYT đang trống đối tượng và tự bổ sung vào bản tin check-in. Phiếu lĩnh: bác sĩ chỉ xem/duyệt phiếu khoa mình (mở toàn viện bằng quyền riêng). Màn XML KCB: dải Đối soát cổng theo kỳ; nút thu hồi 09/BH. Đăng nhập cổng: đọc CAPTCHA chính xác hơn, báo lỗi dễ hiểu kèm Thử lại. Gọi số: giọng đọc mới.",
-  "releasedAt": "2026-11-02T22:59:00+07:00"
+  "backend": "2026.11.02.10",
+  "frontend": "2026.11.02.10",
+  "notes": "Màn XML KCB: tự quét kết quả giám định và trạng thái đề nghị thanh toán mỗi giờ; mở chi tiết hồ sơ nhanh hơn; hồ sơ cổng chưa nhận được đưa lại hàng gửi sau khi kiểm luật; điều kiện thu hồi 09/BH rõ hơn. Y lệnh thuốc: hiển thị đúng cách dùng theo giờ (vd 4-6 giờ/lần). Báo cáo tiền giường xem theo khoa. Gia cố bảo mật.",
+  "releasedAt": "2026-11-03T10:15:00+07:00"
 }
