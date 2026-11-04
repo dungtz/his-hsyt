@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.03.2",
-  "frontend": "2026.11.03.2",
-  "notes": "Cỡ chữ toàn hệ thống to hơn một nấc. Lưới danh sách nội trú thấy nhiều dòng hơn; tờ điều trị: nút gom cụm, tên thuốc xuống dòng không bị cắt. Bàn phím: chọn dịch vụ và bệnh nhân bằng phím mũi tên/Enter; nút chỉ có biểu tượng có tên. Thống nhất chính tả (Xoá, Huỷ, Khoá). Phiếu phẫu thuật: nút Xoá phiếu cho mọi loại phiếu quanh ca; chỉ xoá/huỷ ca mổ khi đã xoá hết phiếu thuộc ca. Chặn trùng phút y lệnh cho cả bác sĩ riêng của dòng con. Cảnh báo vật tư ngoài đợt thầu ghi rõ mã và ngày. Gia cố bảo mật.",
-  "releasedAt": "2026-11-03T23:45:00+07:00"
+  "backend": "2026.11.04.1",
+  "frontend": "2026.11.04.1",
+  "notes": "Sửa lỗi: lưu được mã bệnh ICD-10 có ký hiệu †, *, / (ví dụ M32.1†) ở giấy chuyển viện, bệnh án, giấy nghỉ dưỡng thai và phiếu phẫu thuật/thủ thuật.",
+  "releasedAt": "2026-11-04T17:55:00+07:00"
 }
