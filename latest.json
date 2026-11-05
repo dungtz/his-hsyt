@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.05.2",
-  "frontend": "2026.11.05.2",
-  "notes": "Bản cập nhật tổng hợp: menu có biểu tượng màu đồng nhất; nhắc hồ sơ cá nhân thiếu / SmartCA sắp hết hạn; màn Quản lý bệnh mạn tính; phiếu lĩnh thuốc/vật tư gom theo khoa phát sinh; Sổ CĐHA-TDCN lọc theo khoa chỉ định; Sổ XN hoá sinh thêm cột HIV, HBsAg; khung Dị ứng ở Phiếu khám vào viện; cảnh báo tương tác thuốc theo mã BHYT; chứng từ gửi cổng giữ mã ICD có ký hiệu (†, *); Sổ PT/TT «Ngày vào» theo ngày vào viện; xuất Excel không tải trùng khi bấm đúp; bỏ mục «Quên mật khẩu» (đặt lại mật khẩu do quản trị cơ sở thực hiện); mật khẩu lưu dạng băm một chiều.",
-  "releasedAt": "2026-11-05T12:20:00+07:00"
+  "backend": "2026.11.05.3",
+  "frontend": "2026.11.05.3",
+  "notes": "Màn Tổng hợp quyết toán 01/BH: thêm nút «Đối chiếu đề xuất thanh toán» — so 01/BH với danh sách hồ sơ đã đề nghị thanh toán trên cổng, chỉ ra hồ sơ chỉ có ở 01/BH, chỉ có trên cổng và lệch tiền để kiểm trước khi gửi (chỉ xem, không sửa dữ liệu).",
+  "releasedAt": "2026-11-05T14:15:00+07:00"
 }
