@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.05.3",
-  "frontend": "2026.11.05.3",
-  "notes": "Màn Tổng hợp quyết toán 01/BH: thêm nút «Đối chiếu đề xuất thanh toán» — so 01/BH với danh sách hồ sơ đã đề nghị thanh toán trên cổng, chỉ ra hồ sơ chỉ có ở 01/BH, chỉ có trên cổng và lệch tiền để kiểm trước khi gửi (chỉ xem, không sửa dữ liệu).",
-  "releasedAt": "2026-11-05T14:15:00+07:00"
+  "backend": "2026.11.05.4",
+  "frontend": "2026.11.05.4",
+  "notes": "Đối chiếu đề xuất thanh toán 01/BH: cho cập nhật XML1 và từng dòng XML2/XML3 tại HIS theo cổng (có lưu vết, hoàn tác được). Khám bệnh: thẻ Chỉ định y tế hiện dòng công khám (chỉ đọc). Tiếp đón: Giới tính không chọn sẵn, bắt người dùng chọn. Phiếu lĩnh bù được chọn ngày xuất lùi. Báo cáo mới: danh sách người bệnh ngoại trú được cấp thuốc trên 30 ngày (có phân quyền). Máy nước tiểu KU-U200 lưu kết quả dạng số. Sửa bản in Tờ điều trị (dòng sang trang có ngày giờ), bố cục tường trình thủ thuật, thành phần thuốc phối hợp (màn Hoạt chất).",
+  "releasedAt": "2026-11-05T20:00:00+07:00"
 }
