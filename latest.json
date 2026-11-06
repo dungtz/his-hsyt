@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.07.1",
-  "frontend": "2026.11.07.1",
-  "notes": "Bản in hiện đúng dị ứng của người bệnh; báo cáo 19-20-21 thêm Thành tiền BH và số từ bảng kê đã chốt; kê mới không giữ khoa, mức độ của lần trước; vá bảo mật.",
-  "releasedAt": "2026-11-07T02:49:00+07:00"
+  "backend": "2026.11.07.2",
+  "frontend": "2026.11.07.2",
+  "notes": "Nâng gói và Chromium bản in, giảm lỗ hổng thư viện.",
+  "releasedAt": "2026-11-07T04:33:00+07:00"
 }
