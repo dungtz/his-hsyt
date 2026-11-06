@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.06.4",
-  "frontend": "2026.11.06.4",
-  "notes": "Thêm cột theo phát sinh cho Sổ xét nghiệm; tách Thận lọc máu trong báo cáo doanh thu theo khoa; thêm lọc Excel và phụ đề bộ lọc trên báo cáo; tổng chi phí lượt ở màn Khám bệnh; đổi Khoa chỉ định khi sửa y lệnh; mật khẩu tạm riêng từng tài khoản.",
-  "releasedAt": "2026-11-06T21:21:00+07:00"
+  "backend": "2026.11.06.5",
+  "frontend": "2026.11.06.5",
+  "notes": "Sinh hiệu lần khám và ra viện lưu theo phép đo; khối sinh hiệu dùng chung trên phiếu bệnh án.",
+  "releasedAt": "2026-11-06T22:50:00+07:00"
 }
