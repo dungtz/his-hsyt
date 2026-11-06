@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.05.5",
-  "frontend": "2026.11.05.5",
-  "notes": "Sửa y lệnh ngoại trú: giữ nguyên giờ y lệnh khi sửa phiếu không còn bị báo «trùng giờ» với chính phiếu đang sửa. Máy in: lỗi in không còn lộ thông tin kỹ thuật; trang quản trị mẫu in đóng với Internet.",
-  "releasedAt": "2026-11-05T23:45:00+07:00"
+  "backend": "2026.11.06.1",
+  "frontend": "2026.11.06.1",
+  "notes": "Tiếp đón: kiểm thẻ BHYT khác giới tính áp dụng cả người bệnh Nữ; CCCD không rõ giới tính thì để trống cho lễ tân chọn. Bệnh án: dòng Xét nghiệm gợi ý số tờ theo số phiếu XN. Điều dưỡng ghi được dị ứng ở tab Chăm sóc. Phiếu lĩnh: đổi khoa lĩnh có hỏi xác nhận. Màn Ca trực và các màn liên quan hiện thứ bằng tiếng Việt.",
+  "releasedAt": "2026-11-06T12:20:00+07:00"
 }
