@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.06.1",
-  "frontend": "2026.11.06.1",
-  "notes": "Tiếp đón: kiểm thẻ BHYT khác giới tính áp dụng cả người bệnh Nữ; CCCD không rõ giới tính thì để trống cho lễ tân chọn. Bệnh án: dòng Xét nghiệm gợi ý số tờ theo số phiếu XN. Điều dưỡng ghi được dị ứng ở tab Chăm sóc. Phiếu lĩnh: đổi khoa lĩnh có hỏi xác nhận. Màn Ca trực và các màn liên quan hiện thứ bằng tiếng Việt.",
-  "releasedAt": "2026-11-06T12:20:00+07:00"
+  "backend": "2026.11.06.2",
+  "frontend": "2026.11.06.2",
+  "notes": "Sửa y lệnh: giảm hoặc giữ nguyên số lượng thuốc đã kê không còn bị chặn «hết tồn» khi kho đã hết; thêm mặt hàng hết tồn hoặc tăng số lượng vẫn bị chặn.",
+  "releasedAt": "2026-11-06T13:30:00+07:00"
 }
