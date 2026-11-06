@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.06.2",
-  "frontend": "2026.11.06.2",
-  "notes": "Sửa y lệnh: giảm hoặc giữ nguyên số lượng thuốc đã kê không còn bị chặn «hết tồn» khi kho đã hết; thêm mặt hàng hết tồn hoặc tăng số lượng vẫn bị chặn.",
-  "releasedAt": "2026-11-06T13:30:00+07:00"
+  "backend": "2026.11.06.4",
+  "frontend": "2026.11.06.4",
+  "notes": "Thêm cột theo phát sinh cho Sổ xét nghiệm; tách Thận lọc máu trong báo cáo doanh thu theo khoa; thêm lọc Excel và phụ đề bộ lọc trên báo cáo; tổng chi phí lượt ở màn Khám bệnh; đổi Khoa chỉ định khi sửa y lệnh; mật khẩu tạm riêng từng tài khoản.",
+  "releasedAt": "2026-11-06T21:21:00+07:00"
 }
