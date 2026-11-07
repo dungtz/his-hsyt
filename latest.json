@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.08.5",
-  "frontend": "2026.11.08.5",
-  "notes": "Kết quả LIS: lọc mẫu chờ ghép, nút Bỏ mẫu có lý do; kho tệp: nâng cấp LTV không sinh bản lưu thừa.",
-  "releasedAt": "2026-11-08T05:13:00+07:00"
+  "backend": "2026.11.08.6",
+  "frontend": "2026.11.08.6",
+  "notes": "Giấy / phiếu: tên bệnh lấy theo danh mục ICD, ghi chú bác sĩ ghép sau.",
+  "releasedAt": "2026-11-08T06:23:00+07:00"
 }
