@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.08.4",
-  "frontend": "2026.11.08.4",
-  "notes": "Kho tệp: xoá tệp chỉ sau khi lưu xong; bằng chứng ký giữ nguyên khi thao tác bị huỷ.",
-  "releasedAt": "2026-11-08T03:48:00+07:00"
+  "backend": "2026.11.08.5",
+  "frontend": "2026.11.08.5",
+  "notes": "Kết quả LIS: lọc mẫu chờ ghép, nút Bỏ mẫu có lý do; kho tệp: nâng cấp LTV không sinh bản lưu thừa.",
+  "releasedAt": "2026-11-08T05:13:00+07:00"
 }
