@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.08.2",
-  "frontend": "2026.11.08.2",
-  "notes": "Ra viện / chốt bảng kê cảnh báo thuốc, vật tư chưa xuất kho; 2 báo cáo Dược – Kho mới.",
-  "releasedAt": "2026-11-08T02:01:00+07:00"
+  "backend": "2026.11.08.3",
+  "frontend": "2026.11.08.3",
+  "notes": "Kết xuất hồ sơ bệnh án: thứ tự cố định, thêm khám mắt / phụ khoa / sản khoa.",
+  "releasedAt": "2026-11-08T02:31:00+07:00"
 }
