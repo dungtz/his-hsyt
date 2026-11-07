@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.07.10",
-  "frontend": "2026.11.07.10",
-  "notes": "Giá dịch vụ / công khám lấy đúng giá tại ngày chỉ định kể cả khi màn hình mở từ trước ngày đổi giá.",
-  "releasedAt": "2026-11-07T22:10:00+07:00"
+  "backend": "2026.11.07.11",
+  "frontend": "2026.11.07.11",
+  "notes": "Báo cáo cố định cột tiêu đề khi cuộn; báo cáo BHYT sửa số liệu và không tính BHYT trả cho viện phí.",
+  "releasedAt": "2026-11-07T23:54:00+07:00"
 }
