@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.07.3",
-  "frontend": "2026.11.07.3",
-  "notes": "Xoá biên bản hội chẩn trong ca PT/TT tại màn PT/TT; in lại chứng từ sau khi sửa ngày giờ; lưu tiếp phiếu vừa kê không còn báo trùng.",
-  "releasedAt": "2026-11-07T06:02:00+07:00"
+  "backend": "2026.11.07.4",
+  "frontend": "2026.11.07.4",
+  "notes": "Kết xuất hồ sơ bệnh án CV365; một phiếu một đợt ngoại trú; che thông tin người bệnh trong nhật ký truy cập; màn khám mở nhanh hơn khi có đợt nội trú.",
+  "releasedAt": "2026-11-07T13:38:00+07:00"
 }
