@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.07.5",
-  "frontend": "2026.11.07.5",
-  "notes": "Sửa y lệnh tính khoa theo giờ y lệnh và giữ mức độ; cấn tạm ứng lúc chốt theo số bảng kê; kết xuất hồ sơ bệnh án lấy thẻ BHYT của lượt.",
-  "releasedAt": "2026-11-07T15:01:00+07:00"
+  "backend": "2026.11.07.6",
+  "frontend": "2026.11.07.6",
+  "notes": "CCCD không trùng giữa các hồ sơ; một phiếu khám một đợt ngoại trú; khung xem chứng từ báo cần tạo lại sau khi sửa giờ.",
+  "releasedAt": "2026-11-07T16:18:00+07:00"
 }
