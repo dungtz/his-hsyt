@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.07.7",
-  "frontend": "2026.11.07.6",
-  "notes": "Sửa lỗi: đợt điều trị ngoại trú đã chuyển nội trú mà lượt chuyển bị trả lại thì nay mở lại / chuyển lại được.",
-  "releasedAt": "2026-11-07T17:57:00+07:00"
+  "backend": "2026.11.07.8",
+  "frontend": "2026.11.07.8",
+  "notes": "Y lệnh nội trú: đánh dấu thuốc/dịch vụ ngoài (người bệnh tự túc), in riêng trên tờ điều trị; phiếu lĩnh hiện mã thuốc và số thầu.",
+  "releasedAt": "2026-11-07T19:27:00+07:00"
 }
