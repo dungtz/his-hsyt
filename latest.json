@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.07.11",
-  "frontend": "2026.11.07.11",
-  "notes": "Báo cáo cố định cột tiêu đề khi cuộn; báo cáo BHYT sửa số liệu và không tính BHYT trả cho viện phí.",
-  "releasedAt": "2026-11-07T23:54:00+07:00"
+  "backend": "2026.11.08.1",
+  "frontend": "2026.11.08.1",
+  "notes": "Giấy chuyển viện lấy kết quả CLS; thuốc thường không tự gán giờ dùng; ô tìm mẫu khi chọn mẫu.",
+  "releasedAt": "2026-11-08T00:41:00+07:00"
 }
