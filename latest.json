@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.08.1",
-  "frontend": "2026.11.08.1",
-  "notes": "Giấy chuyển viện lấy kết quả CLS; thuốc thường không tự gán giờ dùng; ô tìm mẫu khi chọn mẫu.",
-  "releasedAt": "2026-11-08T00:41:00+07:00"
+  "backend": "2026.11.08.2",
+  "frontend": "2026.11.08.2",
+  "notes": "Ra viện / chốt bảng kê cảnh báo thuốc, vật tư chưa xuất kho; 2 báo cáo Dược – Kho mới.",
+  "releasedAt": "2026-11-08T02:01:00+07:00"
 }
