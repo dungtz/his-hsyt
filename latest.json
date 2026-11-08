@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.08.7",
-  "frontend": "2026.11.08.7",
-  "notes": "Danh sách phiếu chi: in lại phiếu chi có mã lượt.",
-  "releasedAt": "2026-11-08T07:10:00+07:00"
+  "backend": "2026.11.08.8",
+  "frontend": "2026.11.08.8",
+  "notes": "Bảo mật cầu nối máy xét nghiệm / CĐHA: chống phát lại gói kết quả.",
+  "releasedAt": "2026-11-08T08:40:00+07:00"
 }
