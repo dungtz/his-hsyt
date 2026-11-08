@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.08.15",
-  "frontend": "2026.11.08.15",
-  "notes": "XML BHYT: số thứ tự dòng XML2/XML4 cố định; hồ sơ đã gửi cổng giữ nguyên STT khi dựng lại, kể cả sau huỷ chốt.",
-  "releasedAt": "2026-11-08T19:10:00+07:00"
+  "backend": "2026.11.08.16",
+  "frontend": "2026.11.08.16",
+  "notes": "Bệnh án: ô chọn mã cơ quan cho Sơ sinh, Glôcôm, PHCN Nhi; kết xuất kèm chữ khám cơ quan; ẩn khối cơ quan ở mẫu Mắt chấn thương theo mẫu BYT.",
+  "releasedAt": "2026-11-08T20:15:00+07:00"
 }
