@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.08.10",
-  "frontend": "2026.11.08.10",
-  "notes": "Tường trình PT/TT: bỏ ô Ngày thực hiện (lấy theo giờ bắt đầu); sửa tiêu đề phiếu lượng giá HĐCN.",
-  "releasedAt": "2026-11-08T12:37:00+07:00"
+  "backend": "2026.11.08.11",
+  "frontend": "2026.11.08.11",
+  "notes": "Cam kết nhập viện: điền thông tin thân nhân theo cụm (người nhà hoặc người bệnh tự ký).",
+  "releasedAt": "2026-11-08T13:37:00+07:00"
 }
