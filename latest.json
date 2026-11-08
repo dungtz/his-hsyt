@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.08.16",
-  "frontend": "2026.11.08.16",
-  "notes": "Bệnh án: ô chọn mã cơ quan cho Sơ sinh, Glôcôm, PHCN Nhi; kết xuất kèm chữ khám cơ quan; ẩn khối cơ quan ở mẫu Mắt chấn thương theo mẫu BYT.",
-  "releasedAt": "2026-11-08T20:15:00+07:00"
+  "backend": "2026.11.08.17",
+  "frontend": "2026.11.08.17",
+  "notes": "Sinh hiệu phiếu truyền máu ghi thêm thành hai lần đo trước/sau; chuẩn hoá báo lỗi hệ thống ở danh mục máy cận lâm sàng, ICD9CM.",
+  "releasedAt": "2026-11-08T20:56:00+07:00"
 }
