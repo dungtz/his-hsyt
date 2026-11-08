@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.08.12",
-  "frontend": "2026.11.08.12",
-  "notes": "Chứng từ gửi cổng BHXH (PL2): thêm ô nhập giấy chứng sinh (cha, mang thai hộ), nghỉ dưỡng thai, nghỉ BHXH, giấy ra viện, tóm tắt bệnh án.",
-  "releasedAt": "2026-11-08T14:59:00+07:00"
+  "backend": "2026.11.08.13",
+  "frontend": "2026.11.08.13",
+  "notes": "Kiểm trùng giờ bác sĩ tách riêng viện phí và BHYT (theo lượt khám), áp dụng cả khi kết thúc khám và đổi ngày lượt khám.",
+  "releasedAt": "2026-11-08T16:40:00+07:00"
 }
