@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.09.1",
-  "frontend": "2026.11.09.1",
-  "notes": "Sinh hiệu phiếu truyền dịch, theo dõi sau mổ, tường trình PT/TT ghi thêm vào lịch sử đo theo phiếu; chuẩn hoá báo lỗi hệ thống ở một số danh mục và phiếu EMR.",
-  "releasedAt": "2026-11-09T03:05:00+07:00"
+  "backend": "2026.11.09.2",
+  "frontend": "2026.11.09.2",
+  "notes": "Sinh hiệu dòng theo dõi chạy thận ghi thêm vào lịch sử đo theo phiếu; chuẩn hoá báo lỗi hệ thống ở lịch mổ, cam kết PT, phiếu gây mê, chữ ký.",
+  "releasedAt": "2026-11-09T04:05:00+07:00"
 }
