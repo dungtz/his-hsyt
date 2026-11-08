@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.08.8",
-  "frontend": "2026.11.08.8",
-  "notes": "Bảo mật cầu nối máy xét nghiệm / CĐHA: chống phát lại gói kết quả.",
-  "releasedAt": "2026-11-08T08:40:00+07:00"
+  "backend": "2026.11.08.9",
+  "frontend": "2026.11.08.9",
+  "notes": "Danh mục thuật ngữ lâm sàng (VNCODE/SNOMED) dùng chung; bệnh án sản khoa thêm vết mổ cũ, giờ ối vỡ chọn ngày giờ.",
+  "releasedAt": "2026-11-08T10:29:00+07:00"
 }
