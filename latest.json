@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.08.14",
-  "frontend": "2026.11.08.14",
-  "notes": "Bệnh án: ô chọn mã thuật ngữ (VNCODE/SNOMED) cho dấu hiệu khám phụ khoa, sản khoa, mắt và 9 cơ quan; mã đi kèm khi kết xuất hồ sơ bệnh án.",
-  "releasedAt": "2026-11-08T17:40:00+07:00"
+  "backend": "2026.11.08.15",
+  "frontend": "2026.11.08.15",
+  "notes": "XML BHYT: số thứ tự dòng XML2/XML4 cố định; hồ sơ đã gửi cổng giữ nguyên STT khi dựng lại, kể cả sau huỷ chốt.",
+  "releasedAt": "2026-11-08T19:10:00+07:00"
 }
