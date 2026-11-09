@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.09.13",
-  "frontend": "2026.11.09.13",
-  "notes": "Bìa/bệnh án in đủ Chẩn đoán bệnh chính theo gợi ý của đợt khi bệnh án chưa khai (sửa đường giữ gợi ý lúc Xác nhận) — không còn in trống.",
-  "releasedAt": "2026-11-09T16:44:00+07:00"
+  "backend": "2026.11.09.14",
+  "frontend": "2026.11.09.14",
+  "notes": "HOTFIX: chặn từ gốc lỗi BHYT-R092 (ngày trả kết quả trước ngày ra y lệnh) — dời giờ y lệnh sau kết quả, lưu kết quả thiếu giờ, giờ kết thúc PT/TT đều được kiểm.",
+  "releasedAt": "2026-11-09T17:50:00+07:00"
 }
