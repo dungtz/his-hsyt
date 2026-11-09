@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.09.7",
-  "frontend": "2026.11.09.7",
-  "notes": "Kiểm trùng dòng thuốc XML2 (R153) xét thêm giờ thực hiện y lệnh — không báo trùng oan hai lần truyền khác giờ; bìa bệnh án in đủ giờ phút ra viện.",
-  "releasedAt": "2026-11-09T10:02:00+07:00"
+  "backend": "2026.11.09.9",
+  "frontend": "2026.11.09.9",
+  "notes": "Báo cáo BHYT 19/20/21 thêm ô lọc theo khoa (khoa của lượt, chọn nhiều); gỡ try/catch nuốt lỗi ở nhánh cây ICD10 — lỗi hệ thống hiện mã 9001 rõ ràng.",
+  "releasedAt": "2026-11-09T10:58:00+07:00"
 }
