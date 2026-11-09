@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.09.11",
-  "frontend": "2026.11.09.11",
-  "notes": "Gỡ try/catch nuốt lỗi ở các truy vấn chỉ đọc (khám/ICD10/lô lẻ) — lỗi hệ thống hiện mã 9001 rõ; tăng tốc duyệt/xuất phiếu lĩnh thuốc (bỏ dựng lại toàn bộ y lệnh viện mỗi lần đọc).",
-  "releasedAt": "2026-11-09T13:46:00+07:00"
+  "backend": "2026.11.09.12",
+  "frontend": "2026.11.09.12",
+  "notes": "Ô người thực hiện thủ thuật/PT tìm thêm theo Tên gợi nhớ + Mã NV nội bộ; lưới «Phiếu chỉ định» hiện đủ chỉ định cả phòng khám lẫn khoa (cùng lượt).",
+  "releasedAt": "2026-11-09T15:45:00+07:00"
 }
