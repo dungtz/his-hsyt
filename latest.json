@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.09.3",
-  "frontend": "2026.11.09.3",
-  "notes": "Sinh hiệu phiếu khám tiền mê (kèm cân nặng, chiều cao) ghi vào lịch sử đo theo phiếu; chuẩn hoá báo lỗi hệ thống ở giấy nghỉ, giấy báo tử, tóm tắt bệnh án, phải thu, sổ cái viện phí.",
-  "releasedAt": "2026-11-09T05:40:00+07:00"
+  "backend": "2026.11.09.4",
+  "frontend": "2026.11.09.4",
+  "notes": "Phiếu truyền máu đọc sinh hiệu từ lịch sử đo theo phiếu; chuẩn hoá báo lỗi hệ thống ở lưu bệnh án, giấy ra viện, tóm tắt bệnh án, duyệt bệnh án, giấy chứng sinh.",
+  "releasedAt": "2026-11-09T07:20:00+07:00"
 }
