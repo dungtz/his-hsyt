@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.09.15",
-  "frontend": "2026.11.09.15",
-  "notes": "Đổi hình thức KCB lượt có đợt ngoại trú nay áp lại giá BHYT cho cả dòng của đợt (hết tình trạng thành tự trả); ô Tỷ lệ thanh toán tờ tường trình PT/TT giữ trống khi mở lại.",
-  "releasedAt": "2026-11-09T18:46:00+07:00"
+  "backend": "2026.11.09.16",
+  "frontend": "2026.11.09.16",
+  "notes": "Nội bộ: chuẩn hóa xử lý lỗi hệ thống ở các truy vấn danh mục ICD9CM (không thay đổi nghiệp vụ).",
+  "releasedAt": "2026-11-09T21:01:00+07:00"
 }
