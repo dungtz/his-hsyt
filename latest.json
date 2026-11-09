@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.09.17",
-  "frontend": "2026.11.09.17",
-  "notes": "Nội bộ: chuẩn hóa xử lý lỗi hệ thống ở các truy vấn danh mục (không thay đổi nghiệp vụ).",
-  "releasedAt": "2026-11-09T22:22:00+07:00"
+  "backend": "2026.11.10.1",
+  "frontend": "2026.11.10.1",
+  "notes": "Kê y lệnh nội trú: vào ô Giờ dùng bằng bàn phím; chuẩn hóa nội bộ (STT XML theo cổng, xử lý lỗi danh mục) — không đổi nghiệp vụ.",
+  "releasedAt": "2026-11-10T01:18:00+07:00"
 }
