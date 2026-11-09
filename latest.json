@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.09.12",
-  "frontend": "2026.11.09.12",
-  "notes": "Ô người thực hiện thủ thuật/PT tìm thêm theo Tên gợi nhớ + Mã NV nội bộ; lưới «Phiếu chỉ định» hiện đủ chỉ định cả phòng khám lẫn khoa (cùng lượt).",
-  "releasedAt": "2026-11-09T15:45:00+07:00"
+  "backend": "2026.11.09.13",
+  "frontend": "2026.11.09.13",
+  "notes": "Bìa/bệnh án in đủ Chẩn đoán bệnh chính theo gợi ý của đợt khi bệnh án chưa khai (sửa đường giữ gợi ý lúc Xác nhận) — không còn in trống.",
+  "releasedAt": "2026-11-09T16:44:00+07:00"
 }
