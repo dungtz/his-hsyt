@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.09.4",
-  "frontend": "2026.11.09.4",
-  "notes": "Phiếu truyền máu đọc sinh hiệu từ lịch sử đo theo phiếu; chuẩn hoá báo lỗi hệ thống ở lưu bệnh án, giấy ra viện, tóm tắt bệnh án, duyệt bệnh án, giấy chứng sinh.",
-  "releasedAt": "2026-11-09T07:20:00+07:00"
+  "backend": "2026.11.09.5",
+  "frontend": "2026.11.09.5",
+  "notes": "Phiếu truyền dịch đọc sinh hiệu từ lịch sử đo theo phiếu; màn Xét nghiệm không còn trả chi tiết lỗi kỹ thuật ra trình duyệt.",
+  "releasedAt": "2026-11-09T08:05:00+07:00"
 }
