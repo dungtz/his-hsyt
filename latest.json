@@ -1,6 +1,6 @@
 {
-  "backend": "2026.11.10.3",
-  "frontend": "2026.11.10.3",
-  "notes": "Chuẩn hóa nội bộ câu lỗi hệ thống ở truy vấn danh mục — không đổi nghiệp vụ.",
-  "releasedAt": "2026-11-10T06:04:00+07:00"
+  "backend": "2026.11.10.5",
+  "frontend": "2026.11.10.5",
+  "notes": "Khoa Ngoại GMHS: Sao y lệnh (số ngày + chọn nội dung), sửa nội dung mẫu tại chỗ, gộp thuốc+VT phiếu lĩnh (tùy chọn); báo cáo giường/ngày điều trị theo khoa buồng; chặn giờ ra<vào ngày giường (hết R092).",
+  "releasedAt": "2026-11-10T10:39:00+07:00"
 }
